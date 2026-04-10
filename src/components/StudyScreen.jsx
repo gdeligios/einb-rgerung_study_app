@@ -1,12 +1,20 @@
-import { useState } from "react";
+import { useRef, useState } from "react";
 import SwissCross from "./shared/SwissCross";
 import BrochureViewer from "./shared/BrochureViewer";
 import { getStudyQueue } from "../utils/study";
 import { XP_CORRECT, XP_HINT_PENALTY } from "../data/constants";
 
-export default function StudyScreen({ topicFilter, progress, onAnswer, onBack }) {
-  const [queue, setQueue] = useState(() => getStudyQueue(progress, topicFilter));
-  const [qIdx, setQIdx] = useState(0);
+export default function StudyScreen({ topicFilter, onAnswer, onBack }) {
+  // Dynamic queue: current question is always queue[0].
+  // Correct answer (first time) → pushed to the end for a final review pass.
+  // Correct answer (already mastered) → removed permanently.
+  // Wrong answer → removed from front, re-inserted 3 positions from the front.
+  // Session ends when the queue is empty (all questions mastered).
+  const [queue, setQueue] = useState(() => getStudyQueue(topicFilter));
+  const [totalCount] = useState(() => getStudyQueue(topicFilter).length);
+  const masteredIdsRef = useRef(new Set());
+  const [masteredCount, setMasteredCount] = useState(0);
+
   const [selected, setSelected] = useState(null);
   const [showResult, setShowResult] = useState(false);
   const [showBrochure, setShowBrochure] = useState(false);
@@ -18,7 +26,7 @@ export default function StudyScreen({ topicFilter, progress, onAnswer, onBack })
   const [shakeKey, setShakeKey] = useState(0);
   const [flashGreen, setFlashGreen] = useState(false);
 
-  const currentQ = queue[qIdx];
+  const currentQ = queue[0];
   const optionKeys = ["a", "b", "c", "d"];
 
   const handleSelect = (key) => {
@@ -40,30 +48,67 @@ export default function StudyScreen({ topicFilter, progress, onAnswer, onBack })
   };
 
   const handleNext = () => {
+    const correct = selected === currentQ.correct;
+    const q = queue[0];
+    const rest = queue.slice(1);
+
+    let newQueue;
+    let newMastered = masteredCount;
+
+    if (correct) {
+      if (!masteredIdsRef.current.has(q.id)) {
+        // First correct answer: mark mastered, send to end for a review pass
+        masteredIdsRef.current.add(q.id);
+        newMastered = masteredCount + 1;
+        setMasteredCount(newMastered);
+        newQueue = [...rest, q];
+      } else {
+        // Already mastered: graduate (remove from queue permanently)
+        newQueue = rest;
+      }
+    } else {
+      // Wrong: re-insert 3 positions from the front of the remaining queue
+      const insertAt = Math.min(3, rest.length);
+      newQueue = [...rest.slice(0, insertAt), q, ...rest.slice(insertAt)];
+    }
+
+    setQueue(newQueue);
     setShowResult(false);
     setSelected(null);
     setUsedHint(false);
-    if (qIdx >= queue.length - 1) {
+
+    if (newQueue.length === 0) {
       setSessionDone(true);
-    } else {
-      setQIdx(i => i + 1);
     }
   };
 
+  const handleStudyAgain = () => {
+    const freshQueue = getStudyQueue(topicFilter);
+    masteredIdsRef.current = new Set();
+    setQueue(freshQueue);
+    setMasteredCount(0);
+    setSessionDone(false);
+    setSessionCorrect(0);
+    setSessionTotal(0);
+    setSessionXP(0);
+  };
+
   if (sessionDone) {
-    const pct = Math.round(sessionCorrect / sessionTotal * 100);
-    const passed = pct >= 60;
+    const accuracy = sessionTotal > 0 ? Math.round(sessionCorrect / sessionTotal * 100) : 100;
     return (
       <div style={{ minHeight: "100vh", background: "#fff", padding: "60px 28px 40px", display: "flex", flexDirection: "column" }}>
         <div style={{ flex: 1, display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center" }}>
-          <div style={{ fontSize: 11, fontWeight: 700, letterSpacing: "0.12em", color: passed ? "#15803D" : "#C8102E", marginBottom: 12 }}>
+          <div style={{ fontSize: 11, fontWeight: 700, letterSpacing: "0.12em", color: "#15803D", marginBottom: 12 }}>
             SESSION COMPLETE
           </div>
           <div style={{ fontSize: 72, fontWeight: 800, color: "#111", letterSpacing: "-0.04em", lineHeight: 1, marginBottom: 8 }}>
-            {pct}<span style={{ fontSize: 36 }}>%</span>
+            {accuracy}<span style={{ fontSize: 36 }}>%</span>
           </div>
-          <div style={{ fontSize: 13, color: "#9CA3AF", marginBottom: 40 }}>
-            {sessionCorrect} / {sessionTotal} correct · +{sessionXP} XP
+          <div style={{ fontSize: 13, color: "#9CA3AF", marginBottom: 8 }}>
+            accuracy · +{sessionXP} XP
+          </div>
+          <div style={{ fontSize: 13, color: "#6B7280", marginBottom: 40 }}>
+            {totalCount} / {totalCount} questions mastered
           </div>
           <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 10, width: "100%" }}>
             <div style={{ background: "#F0FDF4", borderRadius: 12, padding: "16px", textAlign: "center" }}>
@@ -72,13 +117,13 @@ export default function StudyScreen({ topicFilter, progress, onAnswer, onBack })
             </div>
             <div style={{ background: "#FFF8F8", borderRadius: 12, padding: "16px", textAlign: "center" }}>
               <div style={{ fontSize: 26, fontWeight: 800, color: "#C8102E", letterSpacing: "-0.02em" }}>{sessionTotal - sessionCorrect}</div>
-              <div style={{ fontSize: 10, color: "#C8102E", fontWeight: 600, letterSpacing: "0.08em", marginTop: 4 }}>TO REVIEW</div>
+              <div style={{ fontSize: 10, color: "#C8102E", fontWeight: 600, letterSpacing: "0.08em", marginTop: 4 }}>RETRIES</div>
             </div>
           </div>
         </div>
         <div style={{ display: "flex", flexDirection: "column", gap: 10 }}>
           <button
-            onClick={() => { setQueue(getStudyQueue(progress, topicFilter)); setQIdx(0); setSessionDone(false); setSessionCorrect(0); setSessionTotal(0); setSessionXP(0); }}
+            onClick={handleStudyAgain}
             style={{ background: "#C8102E", color: "#fff", border: "none", borderRadius: 12, padding: "16px", fontSize: 14, fontWeight: 700, cursor: "pointer", letterSpacing: "-0.01em" }}
           >
             Study Again
@@ -108,12 +153,14 @@ export default function StudyScreen({ topicFilter, progress, onAnswer, onBack })
               <span style={{ fontSize: 11, fontWeight: 700, color: currentQ.color, textTransform: "uppercase", letterSpacing: "0.08em" }}>
                 {currentQ.topic}
               </span>
-              <span style={{ fontSize: 11, color: "#9CA3AF", fontVariantNumeric: "tabular-nums" }}>{qIdx + 1} / {queue.length}</span>
+              <span style={{ fontSize: 11, color: "#9CA3AF", fontVariantNumeric: "tabular-nums" }}>
+                {masteredCount} / {totalCount} mastered
+              </span>
             </div>
           </div>
         </div>
         <div style={{ background: "#F3F4F6", borderRadius: 2, height: 3 }}>
-          <div style={{ background: "#C8102E", height: 3, borderRadius: 2, width: `${(qIdx / queue.length) * 100}%`, transition: "width 0.3s" }}/>
+          <div style={{ background: "#C8102E", height: 3, borderRadius: 2, width: `${(masteredCount / totalCount) * 100}%`, transition: "width 0.3s" }}/>
         </div>
       </div>
 
@@ -181,7 +228,11 @@ export default function StudyScreen({ topicFilter, progress, onAnswer, onBack })
             borderRadius: 10, padding: "13px 15px"
           }}>
             <div style={{ fontSize: 13, fontWeight: 700, color: isCorrect ? "#15803D" : "#C8102E", marginBottom: isCorrect ? 0 : 6 }}>
-              {isCorrect ? `Correct  +${usedHint ? XP_CORRECT - XP_HINT_PENALTY : XP_CORRECT} XP` : "Incorrect"}
+              {isCorrect
+                ? (masteredIdsRef.current.has(currentQ.id)
+                    ? `Correct  +${usedHint ? XP_CORRECT - XP_HINT_PENALTY : XP_CORRECT} XP`
+                    : `Correct  +${usedHint ? XP_CORRECT - XP_HINT_PENALTY : XP_CORRECT} XP`)
+                : "Incorrect — coming back soon"}
             </div>
             {!isCorrect && (
               <div style={{ fontSize: 12, color: "#374151" }}>
@@ -198,7 +249,7 @@ export default function StudyScreen({ topicFilter, progress, onAnswer, onBack })
             width: "100%", background: "#C8102E", color: "#fff", border: "none", borderRadius: 12, padding: "15px",
             fontSize: 14, fontWeight: 700, cursor: "pointer", letterSpacing: "-0.01em"
           }}>
-            {qIdx >= queue.length - 1 ? "Finish Session" : "Next Question →"}
+            Next Question →
           </button>
         </div>
       )}

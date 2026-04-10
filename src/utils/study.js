@@ -22,15 +22,8 @@ export function shuffleArray(arr) {
   return a;
 }
 
-export function getStudyQueue(progress, topicFilter = null) {
+export function getStudyQueue(topicFilter = null) {
   let pool = QUESTIONS;
   if (topicFilter) pool = pool.filter(q => q.topic === topicFilter);
-  const wrong = [], unseen = [], correct = [];
-  pool.forEach(q => {
-    const p = progress[q.id];
-    if (!p) unseen.push(q);
-    else if (p.lastCorrect === false) wrong.push(q);
-    else correct.push(q);
-  });
-  return [...shuffleArray(wrong), ...shuffleArray(unseen), ...shuffleArray(correct)];
+  return shuffleArray(pool);
 }

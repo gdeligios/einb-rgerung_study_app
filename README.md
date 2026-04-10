@@ -1,6 +1,6 @@
 # Einbürgerungstest Kanton Zürich
 
-A mobile-first React study app for the official Swiss citizenship test (Kanton Zürich). Covers all 347 official questions across five topics, with spaced-repetition study mode, timed exam mode, XP/level progression, streaks, and badges.
+A mobile-first React study app for the official Swiss citizenship test (Kanton Zürich). Covers all 347 official questions across five topics, with an adaptive study queue, timed exam mode, XP/level progression, streaks, and badges.
 
 ---
 
@@ -21,7 +21,7 @@ src/
 │   └── constants.js           # Numeric/config constants (XP values, exam params)
 │
 ├── utils/
-│   ├── study.js               # QUESTIONS transform from JSON, shuffleArray, getStudyQueue (SRS)
+│   ├── study.js               # QUESTIONS transform from JSON, shuffleArray, getStudyQueue
 │   └── gamification.js        # getLevel, getLevelProgress, checkBadges
 │
 └── components/
@@ -32,7 +32,7 @@ src/
     ├── LandingScreen.jsx      # Hero + CTA (Google / Guest login)
     ├── OnboardingScreen.jsx   # Daily goal selection
     ├── DashboardScreen.jsx    # Stats, topic progress, action buttons, badges preview
-    ├── StudyScreen.jsx        # SRS-ordered question cards with hint/brochure access
+    ├── StudyScreen.jsx        # Dynamic-queue question cards with hint/brochure access
     ├── ExamScreen.jsx         # Timed 30-question exam with topic breakdown results
     └── BadgesScreen.jsx       # Achievement gallery
 ```
@@ -67,6 +67,15 @@ npm run preview     # preview the production build locally
 ```
 
 ---
+
+## Study queue
+
+Each study session (full set or single category) starts with all questions in a random order. The queue then adapts dynamically as you answer:
+
+- **Correct answer** — the question moves to the end of the queue. It will appear again at the end of the session for a final review pass, and is permanently removed once answered correctly a second time.
+- **Wrong answer** — the question is removed from the front and re-inserted three positions back, so it reappears soon for another attempt.
+
+The session ends when every question has been answered correctly at least once. The summary screen shows your overall accuracy (correct answers / total attempts) and the number of retries needed, giving a clear picture of how much repetition the session required.
 
 ## Topics
 
