@@ -59,14 +59,12 @@ export default function App() {
     <StudyScreen
       topicFilter={studyTopic}
       progress={progress}
-      streak={streak}
       onAnswer={handleAnswer}
       onBack={() => setScreen("dashboard")}
     />
   );
   if (screen === "exam") return (
     <ExamScreen
-      progress={progress}
       onDone={handleExamDone}
       onBack={() => setScreen("dashboard")}
     />
