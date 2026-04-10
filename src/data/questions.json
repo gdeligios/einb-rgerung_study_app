@@ -1,0 +1,6595 @@
+[
+  {
+    "id": 1,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Die Schweiz ist neutral. Was heisst das?",
+    "a": "Sie unterzeichnet keine internationalen Verträge.",
+    "b": "Sie schliesst nur mit Staaten Verträge, die nicht in Kriege verwickelt sind.",
+    "c2": "Sie mischt sich nicht in bewaffnete Konflikte anderer Staaten ein.",
+    "d": "Sie will als Transitland wirtschaftlich unabhängig sein.",
+    "ans": "c",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 2,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Was ist eine Grenzgängerin oder ein Grenzgänger?",
+    "a": "eine Person, die in der Schweiz arbeitet und im Ausland wohnt",
+    "b": "eine Person, die nicht im gleichen Kanton wohnt und arbeitet",
+    "c2": "Schweizer Handelsware, die ins Ausland exportiert wird",
+    "d": "Schweizer Handelsware, die vom Ausland in die Schweiz importiert wird",
+    "ans": "a",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 3,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Confoederatio Helvetica ...",
+    "a": "ist der Name einer Schweizer Schokolade.",
+    "b": "ist der lateinische Name für die Schweizer Eidgenossenschaft.",
+    "c2": "ist der Name des ersten Parlaments der Schweiz.",
+    "d": "ist eine Fraktion des Parlaments.",
+    "ans": "b",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 4,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Was ist ein Departement der Bundesverwaltung?",
+    "a": "Ernährungsdepartement",
+    "b": "Natur- und Klimadepartement",
+    "c2": "Schul- und Weiterbildungsdepartement",
+    "d": "Justiz- und Polizeidepartement",
+    "ans": "d",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 5,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Zwischen den Mitgliedern des Bundesrats gilt das Kollegialitätsprinzip. Was heisst das?",
+    "a": "Die Mitglieder des Bundesrates müssen sich gut kennen.",
+    "b": "Jeder Bundesrat vertritt seine eigenen politischen Meinungen.",
+    "c2": "Alle Mitglieder müssen Entscheide des Bundesrates nach aussen gleich vertreten.",
+    "d": "Der Bundesrat Entscheidungen mit Abstimmung.",
+    "ans": "c",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 6,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Können die Stimmbürgerinnen und Stimmbürger ein neues Gesetz stoppen?",
+    "a": "Ja - mit einer Initiative",
+    "b": "Nein - nur der Bundesrat kann Gesetze ändern",
+    "c2": "Nein - nur der Nationalrat kann Gesetze ändern",
+    "d": "Ja - mit einem Referendum",
+    "ans": "d",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 7,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Was macht der Bundeskanzler oder die Bundeskanzlerin der Schweiz?",
+    "a": "den Bundesrat unterstützen",
+    "b": "die Schweiz regieren",
+    "c2": "den Bundesrat wählen",
+    "d": "Gesetze machen",
+    "ans": "a",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 8,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Was bedeutet bei Abstimmungen «Ständemehr»?",
+    "a": "Mehrheit aller Stimmen",
+    "b": "Mehrheit der Kantone",
+    "c2": "Mehrheit der Stimmen nach Sprachregionen der Schweiz",
+    "d": "Mehrheit in den vorausgegangenen Meinungsumfragen",
+    "ans": "b",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 9,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Welche politischen Rechte haben Schweizerinnen und Schweizer, die im Ausland leben?",
+    "a": "Sie dürfen an Abstimmungen und Wahlen teilnehmen, wenn sie in der Schweiz zu Besuch sind.",
+    "b": "Sie verlieren alle politischen Rechte in der Schweiz.",
+    "c2": "Sie können an nationalen Abstimmungen und Wahlen teilnehmen, ohne deswegen in die Schweiz reisen zu müssen.",
+    "d": "Sie dürfen sich im Gastland in keiner Weise politisch engagieren.",
+    "ans": "c",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 10,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Wer in der Schweiz wählen und abstimmen will, …",
+    "a": "muss das Schweizer Bürgerrecht haben.",
+    "b": "muss einen Computer haben.",
+    "c2": "muss in der Schweiz geboren sein.",
+    "d": "muss mehr Steuern zahlen.",
+    "ans": "a",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 11,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Was ist eine Partei?",
+    "a": "ein Zusammenschluss von Menschen aus der gleichen Stadt oder dem gleichen Dorf",
+    "b": "ein Zusammenschluss von Menschen mit ähnlichen politischen Zielen",
+    "c2": "ein Zusammenschluss von Menschen mit unterschiedlichen Weltanschauungen",
+    "d": "ein Zusammenschluss von Nationalräten oder Ständeräten, um die Mehrheit zu erreichen",
+    "ans": "b",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 12,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Was ist eine Aufgabe des Bundes?",
+    "a": "Wasserversorgung",
+    "b": "Geldpolitik",
+    "c2": "Polizeiwesen",
+    "d": "Organisation der Volksschule",
+    "ans": "b",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 13,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Was ist eine Aufgabe des Bundes?",
+    "a": "Feuerwehr",
+    "b": "Begrünung von Parks",
+    "c2": "Zoll",
+    "d": "Spitäler",
+    "ans": "c",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 14,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Was ist ein Grundrecht in der Schweiz?",
+    "a": "Tierhaltung",
+    "b": "Meinungs- und Informationsfreiheit",
+    "c2": "kostenloser Fernsehzugang",
+    "d": "WLAN-Zugang",
+    "ans": "b",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 15,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Was ist ein Grundrecht in der Schweiz?",
+    "a": "Recht auf Waffenbesitz",
+    "b": "Recht auf eine Wohnung",
+    "c2": "Recht auf einen Arbeitsplatz",
+    "d": "Glaubens- und Gewissensfreiheit",
+    "ans": "d",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 16,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Welche Pflichten haben Einwohnerinnen und Einwohner der Schweiz?",
+    "a": "Sie müssen Steuern bezahlen.",
+    "b": "Sie müssen eine Lehre machen.",
+    "c2": "Sie müssen ein Bankkonto haben.",
+    "d": "Sie müssen den Führerausweis haben.",
+    "ans": "a",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 17,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Welche Pflichten haben Einwohnerinnen und Einwohner der Schweiz?",
+    "a": "Sie müssen eine Weiterbildung machen.",
+    "b": "Sie müssen Mitglied einer Kirche sein.",
+    "c2": "Sie müssen sich in der Gemeinde anmelden.",
+    "d": "Sie müssen ein Telefon haben.",
+    "ans": "c",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 18,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Welche Pflichten haben Einwohnerinnen und Einwohner der Schweiz?",
+    "a": "Sie müssen gegen Diebstahl versichert sein.",
+    "b": "Sie müssen bei einer Krankenkasse versichert sein.",
+    "c2": "Sie müssen ein Halbtax der SBB haben.",
+    "d": "Sie müssen ein Haus besitzen.",
+    "ans": "b",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 19,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Was bedeutet Rechtsgleichheit?",
+    "a": "Alle verdienen gleich viel.",
+    "b": "Alle Kantone haben die gleichen Gesetze.",
+    "c2": "Alle Menschen sind vor dem Gesetz gleich.",
+    "d": "Alle Menschen haben gleich lange Ferien.",
+    "ans": "c",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 20,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Wie heissen die beiden «Kammern» des Schweizer Parlaments?",
+    "a": "Oberhaus und Unterhaus",
+    "b": "Senat und Kongress",
+    "c2": "Nationalrat und Ständerat",
+    "d": "Fraktion und Kommission",
+    "ans": "c",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 21,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Die Schweiz ist …",
+    "a": "eine Diktatur.",
+    "b": "ein absolutistischer Staat.",
+    "c2": "eine Demokratie.",
+    "d": "ein Fürstentum.",
+    "ans": "c",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 22,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Was ist ein wichtiges Merkmal der Demokratie?",
+    "a": "Das Volk wählt ein Parlament.",
+    "b": "Es regiert ein König.",
+    "c2": "Die Menschen können frei reisen.",
+    "d": "Die Menschen haben ein garantiertes Grundeinkommen.",
+    "ans": "a",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 23,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Warum gibt es in einer Demokratie regelmässig Wahlen?",
+    "a": "Damit das Interesse für Politik geweckt wird.",
+    "b": "Damit das Volk die Volksvertretung bestimmen kann.",
+    "c2": "Damit die Armen mehr Macht bekommen.",
+    "d": "Damit Frauen und Männer gleichmässig vertreten sind.",
+    "ans": "b",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 24,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Wie heisst die Verfassung der Schweizerischen Eidgenossenschaft?",
+    "a": "Grundgesetz",
+    "b": "Verfassungsvertrag",
+    "c2": "Bundesbrief",
+    "d": "Bundesverfassung",
+    "ans": "d",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 25,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Wer führt die Regierungsgeschäfte der Schweiz?",
+    "a": "die Parteien",
+    "b": "die Medien",
+    "c2": "der Bundesrat",
+    "d": "die Bundesversammlung",
+    "ans": "c",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 26,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Wer beschliesst auf Bundesebene neue Gesetze?",
+    "a": "das Bundesgericht",
+    "b": "die Präsidentinnen und Präsidenten der Parteien",
+    "c2": "der Nationalrat und der Ständerat und das Volk (Referendum)",
+    "d": "die Bundeskanzlei",
+    "ans": "c",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 27,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Wer darf auf Bundesebene wählen und abstimmen?",
+    "a": "Personen, die in der Schweiz wohnen",
+    "b": "Schweizerinnen und Schweizer ab 18 Jahren",
+    "c2": "Schweizerinnen und Schweizer, die nicht vorbestraft sind",
+    "d": "Personen, die in der Schweiz Steuern bezahlen",
+    "ans": "b",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 28,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Ab wann sind Schweizerinnen und Schweizer auf Bundesebene stimmund wahlberechtigt?",
+    "a": "ab 18 Jahren",
+    "b": "ab 21 Jahren",
+    "c2": "ab 25 Jahren",
+    "d": "ab 16 Jahren",
+    "ans": "a",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 29,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Was bedeutet das aktive Wahlrecht in der Demokratie?",
+    "a": "Man darf nur wählen und abstimmen, wenn man in einer politischen Partei aktiv ist.",
+    "b": "Man kann in ein politisches Amt gewählt werden.",
+    "c2": "Man darf wählen und abstimmen.",
+    "d": "Man muss beim Auszählen der Stimmen helfen.",
+    "ans": "c",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 30,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Wer kann auf Bundesebene in ein politisches Amt gewählt werden?",
+    "a": "wer eine Arbeit hat",
+    "b": "wer in der Schweiz lebt",
+    "c2": "wer das Schweizer Bürgerrecht hat und volljährig ist",
+    "d": "wer mindestens zwei Landessprachen spricht",
+    "ans": "c",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 31,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Wie können Schweizer Bürgerinnen und Bürger auf die Gesetzgebung Einfluss nehmen?",
+    "a": "Sie können über Initiativen und Referenden abstimmen.",
+    "b": "Sie haben keine direkte Einflussmöglichkeit.",
+    "c2": "Sie können einer Partei beitreten.",
+    "d": "Sie können den Bundesrat wählen.",
+    "ans": "a",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 32,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Gegen was kann man das Referendum ergreifen?",
+    "a": "gegen Beschlüsse des Bundesrats",
+    "b": "gegen Urteile des Bundesgerichts",
+    "c2": "gegen Gesetzesvorlagen von Nationalrat und Ständerat",
+    "d": "gegen Massnahmen der Bundesverwaltung",
+    "ans": "c",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 33,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Weshalb ist die Volksinitiative ein wichtiges politisches Recht der Stimmbürgerinnen und Stimmbürger? Sie können mit der Volksinitiative …",
+    "a": "das Parlament ausschalten.",
+    "b": "die Regierung abwählen.",
+    "c2": "politische Entscheidungen rückgängig machen.",
+    "d": "wichtige Anliegen aus der Bevölkerung politisch durchsetzen.",
+    "ans": "d",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 34,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Wie oft wählen die Stimmbürgerinnen und Stimmbürger das Bundesparlament?",
+    "a": "alle 6 Jahre",
+    "b": "alle 2 Jahre",
+    "c2": "alle 4 Jahre",
+    "d": "alle 7 Jahre",
+    "ans": "c",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 35,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Die Bundesversammlung besteht aus 246 Mitgliedern. Wer wählt diese Mitglieder?",
+    "a": "die wahlberechtigten Bürgerinnen und Bürger",
+    "b": "die Parteien",
+    "c2": "alle Einwohnerinnen und Einwohner der Schweiz",
+    "d": "eine Wahlkommission",
+    "ans": "a",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 36,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Über was können stimmberechtigte Bürgerinnen und Bürger in der Schweiz auf Bundesebene abstimmen?",
+    "a": "über Parteiprogramme",
+    "b": "über das Radio- und Fernsehprogramm",
+    "c2": "über Volksinitiativen und Referenden",
+    "d": "über die Besetzung von Verwaltungsstellen",
+    "ans": "c",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 37,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Was ist die zentrale Aufgabe der Bundesversammlung (Bundesparlament)?",
+    "a": "Sie organisiert Wahlen und Abstimmungen.",
+    "b": "Sie berät und beschliesst Gesetze.",
+    "c2": "Sie führt die Regierungsgeschäfte in der Schweiz.",
+    "d": "Sie fällt Gerichtsurteile in letzter Instanz.",
+    "ans": "b",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 38,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Wie setzt sich die Vereinigte Bundesversammlung zusammen?",
+    "a": "aus den Mitgliedern des Nationalrats und Ständerats",
+    "b": "aus den Bundesrichterinnen und Bundesrichtern",
+    "c2": "aus den Mitgliedern der kantonalen Regierungen",
+    "d": "aus den Parteipräsidentinnen und Parteipräsidenten",
+    "ans": "a",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 39,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Das Bundeshaus in Bern ist der Sitz …",
+    "a": "des Nationalmuseums.",
+    "b": "der Bundesversammlung (Schweizer Parlament).",
+    "c2": "der Universität.",
+    "d": "des Schweizer Fernsehens.",
+    "ans": "b",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 40,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Wie heisst die Exekutive in der Schweiz auf Bundesebene?",
+    "a": "Grosser Rat",
+    "b": "Generalrat",
+    "c2": "Bundesrat",
+    "d": "Landrat",
+    "ans": "c",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 41,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Wer wählt die sieben Mitglieder des Bundesrats?",
+    "a": "die Parteipräsidentinnen und Parteipräsidenten",
+    "b": "die Stimmbürgerinnen und Stimmbürger in direkter Wahl",
+    "c2": "der Rat der Ältesten",
+    "d": "Nationalrat und Ständerat",
+    "ans": "d",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 42,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Welche Funktion haben die Parteien in einer Demokratie?",
+    "a": "Sie vertreten verschiedene Interessen und Anliegen der Bevölkerung.",
+    "b": "Sie wählen die Regierung.",
+    "c2": "Sie kontrollieren die Medien.",
+    "d": "Sie vermitteln bei Streit zwischen verschiedenen Ämtern.",
+    "ans": "a",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 43,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Wie viele Unterschriften braucht es für eine Volksinitiative auf Bundesebene?",
+    "a": "30'000",
+    "b": "100'000",
+    "c2": "500'000",
+    "d": "800'000",
+    "ans": "b",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 44,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Was ist die Aufgabe des Ständerates?",
+    "a": "Er hat nur eine repräsentative Funktion.",
+    "b": "Er ist die höchste juristische Instanz.",
+    "c2": "Er vertritt vor allem die Interessen der Kantone.",
+    "d": "Er koordiniert die Planung der Gemeinden.",
+    "ans": "c",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 45,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Was machen Nationalrat und Ständerat gemeinsam?",
+    "a": "Sie entscheiden über internationale Verträge.",
+    "b": "Sie wählen die Mitglieder des Bundesrats und des Bundesgerichts.",
+    "c2": "Sie entwerfen das Bundesbudget.",
+    "d": "Sie fällen im Bundesgericht Urteile.",
+    "ans": "b",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 46,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Wie oft pro Jahr stimmt das Stimmvolk normalerweise in Bundesangelegenheiten ab?",
+    "a": "5",
+    "b": "3",
+    "c2": "2",
+    "d": "4",
+    "ans": "d",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 47,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Wer beschliesst ein Grossteil der neuen Gesetze auf Bundesebene?",
+    "a": "das Bundesgericht",
+    "b": "die Kantone",
+    "c2": "der Nationalrat und der Ständerat",
+    "d": "der Bundesrat",
+    "ans": "c",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 48,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Wann ist eine Initiative auf Bundesebene angenommen?",
+    "a": "Bei Ständemehr",
+    "b": "Bei Volksmehr",
+    "c2": "Bei Volksmehr und Ständemehr",
+    "d": "Bei Volksmehr und mindestens einem Drittel der Stände",
+    "ans": "c",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 49,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Durch eine Volksinitiative kann …",
+    "a": "der National- und Ständerat abgesetzt werden.",
+    "b": "die Bundesverfassung geändert werden.",
+    "c2": "das Völkerrecht geändert werden.",
+    "d": "der Bundesrat ausgetauscht werden.",
+    "ans": "b",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 50,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Wie stimmen die meisten Stimmberechtigten ab?",
+    "a": "per Gang an die Urne",
+    "b": "per Internet",
+    "c2": "per Telefon",
+    "d": "per Brief",
+    "ans": "d",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 51,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "An welchem Wochentag finden nationale Wahlen und Abstimmungen statt?",
+    "a": "Sonntag",
+    "b": "Mittwoch",
+    "c2": "Montag",
+    "d": "Freitag",
+    "ans": "a",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 52,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Was ist eine wichtige Aufgabe des Bundesstaats?",
+    "a": "Er sorgt für soziale Sicherheit.",
+    "b": "Er organisiert die Arbeit in Fabriken und Betrieben.",
+    "c2": "Er garantiert günstigen Wohnraum für alle.",
+    "d": "Er gibt verschiedene Tageszeitungen in allen Landessprachen heraus.",
+    "ans": "a",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 53,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Was ist eine wichtige Aufgabe des Bundes?",
+    "a": "Er fördert die Gründung von Vereinen.",
+    "b": "Er unterstützt die Gründung von Firmen.",
+    "c2": "Er sorgt für die innere und äussere Sicherheit.",
+    "d": "Er unterhält eigene Spitäler und Kliniken.",
+    "ans": "c",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 54,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Was ist eine wichtige Aufgabe des Bundes?",
+    "a": "Er finanziert die Herstellung von Autos.",
+    "b": "Er sorgt für den Schutz der Umwelt.",
+    "c2": "Er bestimmt die Leitzinsen der Nationalbank.",
+    "d": "Er unterhält eigene Elektrizitätswerke.",
+    "ans": "b",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 55,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Der Schweizer Bundesstaat besteht aus verschiedenen. . .",
+    "a": "Bundesländern",
+    "b": "Kantonen.",
+    "c2": "Distrikten.",
+    "d": "Provinzen.",
+    "ans": "b",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 56,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Wie viele Kantone hat der Schweizer Bundesstaat?",
+    "a": "12 (10 Kantone und 2 Halbkantone)",
+    "b": "26 (20 Kantone und 6 Halbkantone)",
+    "c2": "34 (28 Kantone und 6 Halbkantone)",
+    "d": "16 (12 Kantone und 4 Halbkantone)",
+    "ans": "b",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 57,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Wie viele politische Gemeinden gibt es in der Schweiz (Stand 2021)?",
+    "a": "Etwa 50",
+    "b": "Etwa 200",
+    "c2": "Etwa 2200",
+    "d": "Etwa 8000",
+    "ans": "c",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 58,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Die Schweiz ist ein föderalistischer Staat mit drei Staatsebenen. Was ist die unterste Ebene?",
+    "a": "der Kanton",
+    "b": "die Gemeinde",
+    "c2": "der Bezirk",
+    "d": "der Bund",
+    "ans": "b",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 59,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Die Schweiz ist ein föderalistischer Staat mit drei Staatsebenen. Was ist die oberste Ebene?",
+    "a": "die Gemeinde",
+    "b": "der Kanton",
+    "c2": "der Bund",
+    "d": "die Region",
+    "ans": "c",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 60,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Für was ist der Bund zuständig?",
+    "a": "für die Organisation der Volksschule",
+    "b": "für die Aussenpolitik",
+    "c2": "für den Erlass von Bauordnungen",
+    "d": "für die Wahl der Kantonsrichterinnen und Kantonsrichter",
+    "ans": "b",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 61,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Welche Staatsebene ist für das Militär zuständig?",
+    "a": "Bund",
+    "b": "Kanton",
+    "c2": "Bezirk",
+    "d": "Gemeinde",
+    "ans": "a",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 62,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Was sind die Landessprachen der Schweiz?",
+    "a": "Französisch, Italienisch, Englisch, Deutsch",
+    "b": "Französisch, Italienisch, Rätoromanisch, Deutsch",
+    "c2": "Französisch, Italienisch, Dialekte der Kantone und Rätoromanisch",
+    "d": "Deutsch, Französisch, Italienisch",
+    "ans": "b",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 63,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Was ist eine offizielle Landessprache in der Schweiz?",
+    "a": "Französisch",
+    "b": "Englisch",
+    "c2": "Portugiesisch",
+    "d": "Spanisch",
+    "ans": "a",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 64,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Wie viele offizielle Landessprachen gibt es in der Schweiz?",
+    "a": "2",
+    "b": "3",
+    "c2": "4",
+    "d": "8",
+    "ans": "c",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 65,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Was ist die vierte Landessprache der Schweiz?",
+    "a": "Elsässisch",
+    "b": "Rätoromanisch",
+    "c2": "Englisch",
+    "d": "Portugiesisch",
+    "ans": "b",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 66,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Wer darf in der Schweiz Gewalt gegen Menschen und Sachen ausüben (Gewaltmonopol)?",
+    "a": "betroffene Bürgerinnen und Bürger",
+    "b": "die Parteien",
+    "c2": "die Medien",
+    "d": "der Staat (Polizei, Militär)",
+    "ans": "d",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 67,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Wer hat auf Bundesebene die richterliche Gewalt (Judikative)?",
+    "a": "die Parlamentarierinnen und Parlamentarier",
+    "b": "das Bundesgericht",
+    "c2": "die Regierungen",
+    "d": "das Militär",
+    "ans": "b",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 68,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Wer hat auf Bundesebene die gesetzgebende Gewalt (Legislative)?",
+    "a": "der Bundesrat",
+    "b": "der Militärrat",
+    "c2": "das Bundesparlament (Nationalrat und Ständerat)",
+    "d": "das Bundesgericht",
+    "ans": "c",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 69,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Wer hat auf Bundesebene die ausführende Gewalt (Exekutive)?",
+    "a": "der Bundesrat",
+    "b": "die Parteien",
+    "c2": "das Bundesparlament (Nationalrat und Ständerat)",
+    "d": "das Bundesverwaltungsgericht",
+    "ans": "a",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 70,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Was bezeichnet man häufig als vierte Gewalt im Staat?",
+    "a": "die Kirche",
+    "b": "die Verbände und Vereine",
+    "c2": "die Medien (Zeitungen, Radio, Fernsehen)",
+    "d": "die Werbung",
+    "ans": "c",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 71,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Was ist die Aufgabe der Richterinnen und Richter?",
+    "a": "Sie überwachen die Verwaltung.",
+    "b": "Sie fällen Gerichtsurteile.",
+    "c2": "Sie verteidigen die Angeklagten.",
+    "d": "Sie verfassen Gesetze.",
+    "ans": "b",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 72,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Was ist eine Aufgabe der Polizei?",
+    "a": "Sie hilft bei der Steuererklärung.",
+    "b": "Sie verfolgt Rechtsverletzungen.",
+    "c2": "Sie erlässt neue Gesetze.",
+    "d": "Sie fällt Gerichtsurteile.",
+    "ans": "b",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 73,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Wer darf Kriminelle verhaften?",
+    "a": "Zeuginnen und Zeugen eines Verbrechens",
+    "b": "der Gemeinderat",
+    "c2": "die Polizei",
+    "d": "die Bürgerwehr",
+    "ans": "c",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 74,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Was bedeutet Gewaltenteilung?",
+    "a": "Polizei und Militär dürfen beide Gewalt anwenden.",
+    "b": "Die Verteilung der Macht auf Staat und Kirche.",
+    "c2": "Die Verteilung der Staatsgewalt auf verschiedene Staatsorgane wie Regierung, Parlament und Gerichte.",
+    "d": "Die Verteilung der Macht auf den Nationalrat und den Ständerat.",
+    "ans": "c",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 75,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Die Schweiz ist ein Rechtsstaat. Was bedeutet das?",
+    "a": "Auch der Staat muss sich an die Gesetze halten.",
+    "b": "Die Gesetze gelten nur für die Personen, die diesen Gesetzen zugestimmt haben.",
+    "c2": "Die Gesetze gelten nur für Schweizer Bürgerinnen und Bürger.",
+    "d": "Die Gesetze gelten nicht für Politikerinnen und Politiker.",
+    "ans": "a",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 76,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Welches Grundrecht ist in der Bundesverfassung verankert?",
+    "a": "der Waffenbesitz",
+    "b": "die Glaubens- und Gewissensfreiheit",
+    "c2": "die persönliche Rache",
+    "d": "das Recht auf ein eigenes Haus",
+    "ans": "b",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 77,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Welches Grundrecht garantiert die Bundesverfassung?",
+    "a": "die Meinungsfreiheit",
+    "b": "das Recht auf WLAN",
+    "c2": "das Recht auf kostenlose Aus- und Weiterbildung",
+    "d": "das Halten von Haustieren",
+    "ans": "a",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 78,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Was wird durch die Glaubens- und Gewissensfreiheit garantiert?",
+    "a": "freie Schulwahl",
+    "b": "Freizeit",
+    "c2": "Versammlungsfreiheit",
+    "d": "Religionsfreiheit",
+    "ans": "d",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 79,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Frauen und Männer sind laut Verfassung und Gesetz in der Schweiz gleichberechtigt. Was heisst das?",
+    "a": "Kochen ist Männersache.",
+    "b": "Frauen und Männer haben grundsätzlich die gleichen Rechte.",
+    "c2": "In politischen Gremien müssen gleich viele Männer wie Frauen vertreten sein.",
+    "d": "Kindererziehung ist Frauensache.",
+    "ans": "b",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 80,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Was ist in der Schweiz verboten?",
+    "a": "Man darf keine falschen Behauptungen über Personen öffentlich verbreiten.",
+    "b": "Man darf die Regierung nicht öffentlich kritisieren.",
+    "c2": "Man darf eine geschlossene Ehe nicht auflösen.",
+    "d": "Man darf nicht an Demonstrationen teilnehmen.",
+    "ans": "a",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 81,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Jemand bekommt wegen seiner Hautfarbe oder seinem Geschlecht eine Arbeitsstelle nicht. Welches Grundrecht wird damit verletzt?",
+    "a": "das Recht auf freie Meinungsäusserung",
+    "b": "die Niederlassungsfreiheit",
+    "c2": "das Recht auf rechtsgleiche Behandlung (Diskriminierungsverbot)",
+    "d": "das Recht auf Bildung",
+    "ans": "c",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 82,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Welches Recht bekommen Personen erst mit der Einbürgerung?",
+    "a": "Sie dürfen einem Verein beitreten.",
+    "b": "Sie dürfen an politischen Wahlen und Abstimmungen auf Bundesebene teilnehmen.",
+    "c2": "Sie dürfen eine Wohnung kaufen.",
+    "d": "Sie dürfen den Arbeitsplatz frei wählen.",
+    "ans": "b",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 83,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Durch was wird der Persönlichkeits- oder Datenschutz verletzt?",
+    "a": "Wenn der persönliche Computer nicht genügend geschützt ist.",
+    "b": "Wenn eine Person auf einer öffentlichen Strasse fotografiert wird.",
+    "c2": "Wenn eine Zeitung über eine Person berichtet.",
+    "d": "Wenn private Informationen über einzelne Personen ohne gesetzliche Grundlage oder ohne Zustimmung der Person veröffentlicht werden.",
+    "ans": "d",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 84,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Was verbietet die Schweizer Bundesverfassung?",
+    "a": "Man darf im öffentlichen Raum keine religiösen Zeichen tragen.",
+    "b": "Man darf keine Sammelaktionen für notleidende Menschen durchführen.",
+    "c2": "Es darf niemand gefoltert werden.",
+    "d": "Man darf nicht ohne Lohn arbeiten.",
+    "ans": "c",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 85,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Welches Recht ist in der Schweizer Bundesverfassung verankert?",
+    "a": "Alle Menschen haben ein Recht auf gesunde und kostenlose Ernährung.",
+    "b": "Das persönliche Eigentum ist geschützt.",
+    "c2": "Man darf Haustiere halten.",
+    "d": "Man darf kostenlos das Internet benutzen.",
+    "ans": "b",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 86,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Was ist in der Schweiz verboten?",
+    "a": "die Arbeit des Bundesrats zu kritisieren",
+    "b": "ohne Bewilligung Velo zu fahren",
+    "c2": "im öffentlichen Raum ein religiöses Zeichen zu tragen",
+    "d": "andere Menschen wegen ihrer Herkunft oder Religion öffentlich zu beschimpfen",
+    "ans": "d",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 87,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Wer muss in der Schweiz Militärdienst oder Zivilschutzdienst leisten?",
+    "a": "junge Männer mit Schweizer Bürgerrecht",
+    "b": "Frauen und Männer im Alter von 20 Jahren, die mindestens 10 Jahre in der Schweiz gelebt haben",
+    "c2": "Militärdienst ist für alle freiwillig",
+    "d": "junge Frauen und Männer mit einem technischen oder medizinischen Beruf",
+    "ans": "a",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 88,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Zwei Jugendliche werden wegen ihrer dunklen Hautfarbe nicht ins Schwimmbad hineingelassen. Gegen welches Grundrecht verstösst das?",
+    "a": "gegen die freie Sportbetätigung",
+    "b": "gegen das Diskriminierungsverbot",
+    "c2": "gegen die Meinungsfreiheit",
+    "d": "gegen die Versammlungsfreiheit",
+    "ans": "b",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 89,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Welche Pflicht gilt in der Schweiz nur für Männer?",
+    "a": "Männer müssen bis zu einem bestimmten Alter Militärdienst oder Zivilschutzdienst leisten.",
+    "b": "Männer müssen bei Bedarf ein politisches Amt übernehmen.",
+    "c2": "Männer müssen für den Unterhalt der Familie sorgen.",
+    "d": "Männer müssen mehr Steuern und Krankenkassenprämien bezahlen.",
+    "ans": "a",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 90,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Was ist in einem Rechtsstaat verboten?",
+    "a": "Gesetze zu kritisieren",
+    "b": "die Arbeit von demokratisch gewählten Behörden in Frage zu stellen",
+    "c2": "Personen grundlos zu verhaften und einzusperren",
+    "d": "einer religiösen Gruppierung beizutreten",
+    "ans": "c",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 91,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Was geschieht in der Schweiz, wenn jemand eine Straftat begeht?",
+    "a": "Wer gegen ein Gesetz verstossen hat, wird bestraft.",
+    "b": "Wer Opfer eines Verbrechens geworden ist, darf sich selber rächen.",
+    "c2": "Wer sich selbst anzeigt, bleibt straffrei.",
+    "d": "Die Opfer eines Verbrechens können zwischen verschiedenen Strafen wählen.",
+    "ans": "a",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 92,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Welche Strafe verbietet die Bundesverfassung?",
+    "a": "eine Gefängnisstrafe",
+    "b": "eine Geldstrafe",
+    "c2": "die Todesstrafe",
+    "d": "gemeinnützige Arbeit",
+    "ans": "c",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 93,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "In der Schweiz gibt es verschiedene Gesetze. Welches regelt das Mieten von Wohnungen?",
+    "a": "Obligationenrecht (OR)",
+    "b": "Mehrwertsteuergesetz (MWSTG)",
+    "c2": "Strafgesetzbuch (StGB)",
+    "d": "Bundesgesetz über Schuldbetreibung und Konkurs (SchKG)",
+    "ans": "a",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 94,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "In der Schweiz gibt es verschiedene Gesetze. Was regelt das Zivilgesetzbuch (ZGB)?",
+    "a": "Eheschliessungen und Scheidungen",
+    "b": "Firmengründungen",
+    "c2": "Strafen bei Mord und Totschlag",
+    "d": "Staatsverträge",
+    "ans": "a",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 95,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "In der Schweiz gibt es verschiedene Gesetze. Welches regelt, ob jemand ins Gefängnis muss?",
+    "a": "Obligationenrecht (OR)",
+    "b": "Zivilgesetzbuch (ZGB)",
+    "c2": "Strafgesetzbuch (StGB)",
+    "d": "Bundesgesetz über Schuldbetreibung und Konkurs (SchKG)",
+    "ans": "c",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 96,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Wie werden Richterinnen und Richter am Bundesgericht ernannt?",
+    "a": "Durch die Kantonsparlamente. Jeder Kanton kann einen Richter stellen.",
+    "b": "Durch ein normales Bewerbungsverfahren mit Vorstellungsgespräch.",
+    "c2": "Durch Wahl des Bundesparlaments.",
+    "d": "Der Bundesrat hat das Recht, Richter einzusetzen.",
+    "ans": "c",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 97,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Dürfen Schweizer Bürgerinnen und Bürger an andere Länder ausgeliefert werden?",
+    "a": "Nein. Dies ist unter keinen Umständen erlaubt.",
+    "b": "Ja, aber nur an Länder welche demokratisch organisiert sind.",
+    "c2": "Ja, aber nur wenn die Straftat auch in der Schweiz strafbar ist.",
+    "d": "Grundsätzlich nicht. Ausgenommen für Prozesse vor internationalen Gerichten.",
+    "ans": "d",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 98,
+    "s": "1.1",
+    "t": "Demokratie & Föderalismus",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#D4001A",
+    "q": "Von was hängt die individuelle Steuerbelastung ab?",
+    "a": "vom steuerbaren Einkommen und Vermögen",
+    "b": "von der Mitgliedschaft bei einer Partei",
+    "c2": "von der Nationalität",
+    "d": "von der Mitgliedschaft in einer Behörde",
+    "ans": "a",
+    "bp": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": 99,
+    "s": "1.2",
+    "t": "Demokratie & Föderalismus",
+    "st": "Kanton Zürich",
+    "lv": "cantonal",
+    "c": "#D4001A",
+    "q": "1.2 Kanton Wie viele Regierungsräte hat der Kanton Zürich?",
+    "a": "3",
+    "b": "250",
+    "c2": "7",
+    "d": "180",
+    "ans": "c",
+    "bp": [
+      23,
+      24,
+      25
+    ]
+  },
+  {
+    "id": 100,
+    "s": "1.2",
+    "t": "Demokratie & Föderalismus",
+    "st": "Kanton Zürich",
+    "lv": "cantonal",
+    "c": "#D4001A",
+    "q": "Wie heisst eine Direktion des Kanton Zürichs?",
+    "a": "Tourismusdirektion",
+    "b": "Baudirektion",
+    "c2": "Ernährungsdirektion",
+    "d": "Militärdirektion",
+    "ans": "b",
+    "bp": [
+      23,
+      24,
+      25
+    ]
+  },
+  {
+    "id": 101,
+    "s": "1.2",
+    "t": "Demokratie & Föderalismus",
+    "st": "Kanton Zürich",
+    "lv": "cantonal",
+    "c": "#D4001A",
+    "q": "Wie heisst in der Stadt Zürich die Exekutive?",
+    "a": "Stadtrat",
+    "b": "Nationalrat",
+    "c2": "Regierungsrat",
+    "d": "Bundesrat",
+    "ans": "a",
+    "bp": [
+      23,
+      24,
+      25
+    ]
+  },
+  {
+    "id": 102,
+    "s": "1.2",
+    "t": "Demokratie & Föderalismus",
+    "st": "Kanton Zürich",
+    "lv": "cantonal",
+    "c": "#D4001A",
+    "q": "Was ist eine Aufgabe des Kantons Zürich?",
+    "a": "Abschluss von Verträgen mit der Europäischen Union",
+    "b": "Organisation der Universität",
+    "c2": "Digitalisierung der Bundesverwaltung",
+    "d": "Organisation der Armee",
+    "ans": "b",
+    "bp": [
+      23,
+      24,
+      25
+    ]
+  },
+  {
+    "id": 103,
+    "s": "1.2",
+    "t": "Demokratie & Föderalismus",
+    "st": "Kanton Zürich",
+    "lv": "cantonal",
+    "c": "#D4001A",
+    "q": "Wie viele Bezirke gibt es im Kanton Zürich?",
+    "a": "12",
+    "b": "18",
+    "c2": "7",
+    "d": "25",
+    "ans": "a",
+    "bp": [
+      23,
+      24,
+      25
+    ]
+  },
+  {
+    "id": 104,
+    "s": "1.2",
+    "t": "Demokratie & Föderalismus",
+    "st": "Kanton Zürich",
+    "lv": "cantonal",
+    "c": "#D4001A",
+    "q": "Wie können im Kanton Zürich auch Personen ohne Schweizer Pass politisch aktiv werden?",
+    "a": "mit einem Referendum.",
+    "b": "mit einer Petition.",
+    "c2": "mit einem Einsitz in die Regierung.",
+    "d": "mit einem parlamentarischen Kommissionsantrag.",
+    "ans": "b",
+    "bp": [
+      23,
+      24,
+      25
+    ]
+  },
+  {
+    "id": 105,
+    "s": "1.2",
+    "t": "Demokratie & Föderalismus",
+    "st": "Kanton Zürich",
+    "lv": "cantonal",
+    "c": "#D4001A",
+    "q": "Wie viele Mitglieder hat die Regierung des Kantons Zürich?",
+    "a": "7",
+    "b": "3",
+    "c2": "5",
+    "d": "je nach Aufgaben, die anstehen.",
+    "ans": "a",
+    "bp": [
+      23,
+      24,
+      25
+    ]
+  },
+  {
+    "id": 106,
+    "s": "1.2",
+    "t": "Demokratie & Föderalismus",
+    "st": "Kanton Zürich",
+    "lv": "cantonal",
+    "c": "#D4001A",
+    "q": "Für was sind die Kantone vor allem zuständig?",
+    "a": "für die Leitung der kantonalen Verwaltung und für kantonale Gesetze",
+    "b": "für die Innen- und Aussenpolitik auf nationaler Ebene",
+    "c2": "für die nationale Verteidigung (Militär)",
+    "d": "für die Geldpolitik und die Zölle",
+    "ans": "a",
+    "bp": [
+      23,
+      24,
+      25
+    ]
+  },
+  {
+    "id": 107,
+    "s": "1.2",
+    "t": "Demokratie & Föderalismus",
+    "st": "Kanton Zürich",
+    "lv": "cantonal",
+    "c": "#D4001A",
+    "q": "Wie oft werden die Mitglieder des Kantonsrats gewählt?",
+    "a": "alle 6 Jahre",
+    "b": "alle 2 Jahre",
+    "c2": "alle 7 Jahre",
+    "d": "alle 4 Jahre",
+    "ans": "d",
+    "bp": [
+      23,
+      24,
+      25
+    ]
+  },
+  {
+    "id": 108,
+    "s": "1.2",
+    "t": "Demokratie & Föderalismus",
+    "st": "Kanton Zürich",
+    "lv": "cantonal",
+    "c": "#D4001A",
+    "q": "Wie heisst die Exekutive im Kanton Zürich?",
+    "a": "Landammann",
+    "b": "Regierungsrat",
+    "c2": "Ständerat",
+    "d": "Es gibt keine Exekutive.",
+    "ans": "b",
+    "bp": [
+      23,
+      24,
+      25
+    ]
+  },
+  {
+    "id": 109,
+    "s": "1.2",
+    "t": "Demokratie & Föderalismus",
+    "st": "Kanton Zürich",
+    "lv": "cantonal",
+    "c": "#D4001A",
+    "q": "Welches ist das Wappen des Kantons Zürich?",
+    "a": "b) c) d) Richtige Antwort: c Wie viele Personen sind für den Kanton Zürich im Ständerat? a) 13",
+    "b": "5",
+    "c2": "2",
+    "d": "7",
+    "ans": "c",
+    "bp": [
+      23,
+      24,
+      25
+    ]
+  },
+  {
+    "id": 110,
+    "s": "1.2",
+    "t": "Demokratie & Föderalismus",
+    "st": "Kanton Zürich",
+    "lv": "cantonal",
+    "c": "#D4001A",
+    "q": "Wie heisst das Parlament im Kanton Zürich?",
+    "a": "Landtag",
+    "b": "Grosser Rat",
+    "c2": "Kantonsrat",
+    "d": "Regierungsrat",
+    "ans": "c",
+    "bp": [
+      23,
+      24,
+      25
+    ]
+  },
+  {
+    "id": 111,
+    "s": "1.2",
+    "t": "Demokratie & Föderalismus",
+    "st": "Kanton Zürich",
+    "lv": "cantonal",
+    "c": "#D4001A",
+    "q": "Wie werden die Mitglieder der Zürcher Regierung bestimmt?",
+    "a": "Sie werden von den Parteien ernannt.",
+    "b": "Sie werden vom Kantonsrat gewählt.",
+    "c2": "Sie werden auf Parteiversammlungen gewählt.",
+    "d": "Sie werden von den Zürcher Stimmbürgerinnen und Stimmbürgern gewählt.",
+    "ans": "d",
+    "bp": [
+      23,
+      24,
+      25
+    ]
+  },
+  {
+    "id": 112,
+    "s": "1.2",
+    "t": "Demokratie & Föderalismus",
+    "st": "Kanton Zürich",
+    "lv": "cantonal",
+    "c": "#D4001A",
+    "q": "Wer stellt im Kanton Zürich die Führerausweise für Autofahrerinnen und Autofahrer aus?",
+    "a": "die Gemeinde",
+    "b": "das Strassenverkehrsamt",
+    "c2": "die Verkehrsverbände",
+    "d": "die Verkehrspolizei",
+    "ans": "b",
+    "bp": [
+      23,
+      24,
+      25
+    ]
+  },
+  {
+    "id": 113,
+    "s": "1.2",
+    "t": "Demokratie & Föderalismus",
+    "st": "Kanton Zürich",
+    "lv": "cantonal",
+    "c": "#D4001A",
+    "q": "Wer darf Motorfahrzeuge für den Verkehr zulassen?",
+    "a": "die Gemeinde",
+    "b": "die grossen Autogaragen",
+    "c2": "das Strassenverkehrsamt",
+    "d": "die Verkehrspolizei",
+    "ans": "c",
+    "bp": [
+      23,
+      24,
+      25
+    ]
+  },
+  {
+    "id": 114,
+    "s": "1.2",
+    "t": "Demokratie & Föderalismus",
+    "st": "Kanton Zürich",
+    "lv": "cantonal",
+    "c": "#D4001A",
+    "q": "Wie werden die Mitglieder des Kantonsrats bestimmt?",
+    "a": "durch Wahlen",
+    "b": "durch Ernennung von der Kantonsregierung",
+    "c2": "durch das eidgenössische Parlament",
+    "d": "durch die Ständeräte des Kantons",
+    "ans": "a",
+    "bp": [
+      23,
+      24,
+      25
+    ]
+  },
+  {
+    "id": 115,
+    "s": "1.3",
+    "t": "Demokratie & Föderalismus",
+    "st": "Gemeinde",
+    "lv": "cantonal",
+    "c": "#D4001A",
+    "q": "1.3 Gemeinde Was passiert an einer Gemeindeversammlung?",
+    "a": "Die Stimmbürgerinnen und Stimmbürger entscheiden über das Budget.",
+    "b": "Die Einwohnerinnen und Einwohner feiern ein Fest.",
+    "c2": "Die Stimmbürgerinnen und Stimmbürger wählen den Chef oder die Chefin der Feuerwehr.",
+    "d": "Die Stimmbürgerinnen und Stimmbürger beschliessen neue nationale Gesetze.",
+    "ans": "a",
+    "bp": [
+      25,
+      56,
+      57
+    ]
+  },
+  {
+    "id": 116,
+    "s": "1.3",
+    "t": "Demokratie & Föderalismus",
+    "st": "Gemeinde",
+    "lv": "cantonal",
+    "c": "#D4001A",
+    "q": "Wer wählt den Gemeinderat der Stadt Zürich?",
+    "a": "der Kantonsrat",
+    "b": "der Regierungsrat",
+    "c2": "der Bezirksrat",
+    "d": "das Volk",
+    "ans": "d",
+    "bp": [
+      25,
+      56,
+      57
+    ]
+  },
+  {
+    "id": 117,
+    "s": "1.3",
+    "t": "Demokratie & Föderalismus",
+    "st": "Gemeinde",
+    "lv": "cantonal",
+    "c": "#D4001A",
+    "q": "Was ist eine Aufgabe von Zürcher Gemeinden?",
+    "a": "Sie bauen Autobahnen.",
+    "b": "Sie führen das Militär.",
+    "c2": "Sie verkaufen Versicherungen.",
+    "d": "Sie organisieren die Primarschule.",
+    "ans": "d",
+    "bp": [
+      25,
+      56,
+      57
+    ]
+  },
+  {
+    "id": 118,
+    "s": "1.3",
+    "t": "Demokratie & Föderalismus",
+    "st": "Gemeinde",
+    "lv": "cantonal",
+    "c": "#D4001A",
+    "q": "Wer erteilt die Baubewilligung für ein Einfamilienhaus im Kanton Zürich?",
+    "a": "der Nachbar",
+    "b": "die Gemeinde",
+    "c2": "das Quartierkomitee",
+    "d": "die Architektin",
+    "ans": "b",
+    "bp": [
+      25,
+      56,
+      57
+    ]
+  },
+  {
+    "id": 119,
+    "s": "1.3",
+    "t": "Demokratie & Föderalismus",
+    "st": "Gemeinde",
+    "lv": "cantonal",
+    "c": "#D4001A",
+    "q": "Für was sind die Gemeinden zuständig?",
+    "a": "für die Organisation von privaten Geburtstagsfesten",
+    "b": "für die Aussenpolitik",
+    "c2": "für die lokale Raumplanung",
+    "d": "für das Militär",
+    "ans": "c",
+    "bp": [
+      25,
+      56,
+      57
+    ]
+  },
+  {
+    "id": 120,
+    "s": "1.3",
+    "t": "Demokratie & Föderalismus",
+    "st": "Gemeinde",
+    "lv": "cantonal",
+    "c": "#D4001A",
+    "q": "Wer zählt bei politischen Abstimmungen die Stimmzettel?",
+    "a": "das Militärbüro",
+    "b": "das Wahlbüro",
+    "c2": "die Stimmbürgerinnen und Stimmbürger selber",
+    "d": "die Polizei",
+    "ans": "b",
+    "bp": [
+      25,
+      56,
+      57
+    ]
+  },
+  {
+    "id": 121,
+    "s": "1.3",
+    "t": "Demokratie & Föderalismus",
+    "st": "Gemeinde",
+    "lv": "cantonal",
+    "c": "#D4001A",
+    "q": "Bürgerinnen und Bürger können auf Gemeindeebene politisch entscheiden, indem sie . . .",
+    "a": "regelmässig an Volksfesten teilnehmen.",
+    "b": "die Steuern rechtzeitig bezahlen.",
+    "c2": "in Vereinen mitwirken.",
+    "d": "an Wahlen und Abstimmungen teilnehmen.",
+    "ans": "d",
+    "bp": [
+      25,
+      56,
+      57
+    ]
+  },
+  {
+    "id": 122,
+    "s": "1.3",
+    "t": "Demokratie & Föderalismus",
+    "st": "Gemeinde",
+    "lv": "cantonal",
+    "c": "#D4001A",
+    "q": "Wer leitet die Verwaltung und plant die Ziele öffentlichen Handelns der Stadt Zürich?",
+    "a": "die Stadtkanzlei",
+    "b": "der Stadtrat",
+    "c2": "die Einwohnerkontrolle",
+    "d": "die Einwohnerinnen und Einwohner der Stadt",
+    "ans": "b",
+    "bp": [
+      25,
+      56,
+      57
+    ]
+  },
+  {
+    "id": 123,
+    "s": "1.3",
+    "t": "Demokratie & Föderalismus",
+    "st": "Gemeinde",
+    "lv": "cantonal",
+    "c": "#D4001A",
+    "q": "Wofür ist die Gemeinde zuständig?",
+    "a": "Fachhochschulen",
+    "b": "Geldpolitik",
+    "c2": "Zivildienst",
+    "d": "Einwohnerkontrolle",
+    "ans": "d",
+    "bp": [
+      25,
+      56,
+      57
+    ]
+  },
+  {
+    "id": 124,
+    "s": "1.3",
+    "t": "Demokratie & Föderalismus",
+    "st": "Gemeinde",
+    "lv": "cantonal",
+    "c": "#D4001A",
+    "q": "Wie viele Gemeinden gibt es im Kanton Zürich?",
+    "a": "zwischen 30 und 50",
+    "b": "zwischen 150 und 170",
+    "c2": "zwischen 420 und 440",
+    "d": "zwischen 300 und 320",
+    "ans": "b",
+    "bp": [
+      25,
+      56,
+      57
+    ]
+  },
+  {
+    "id": 125,
+    "s": "2.1",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#1A5276",
+    "q": "Wie nennt man die oberste Repräsentantin oder den obersten Repräsentanten in kleineren Zürcher Gemeinden?",
+    "a": "Bürgermeisterin oder Bürgermeister",
+    "b": "Gemeindeammann",
+    "c2": "Bezirksamtmann",
+    "d": "Gemeindepräsidentin oder Gemeindepräsident",
+    "ans": "d",
+    "bp": [
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "id": 126,
+    "s": "2.1",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#1A5276",
+    "q": "Die Steuererklärung ...",
+    "a": "beschreibt das Vorgehen bei Abgabe der Steuer.",
+    "b": "weist die finanzielle Situation des Steuerzahlenden gegenüber der Steuerbehörde aus.",
+    "c2": "belegt gegenüber der Steuerbehörde die Lotteriegewinne.",
+    "d": "beschreibt, wie man die Formulare für die Steuerbehörde ausfüllen muss.",
+    "ans": "b",
+    "bp": [
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "id": 127,
+    "s": "2.1",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#1A5276",
+    "q": "Was ist ein Arbeitszeugnis?",
+    "a": "eine Liste aller bisherigen Arbeitsstellen eines Arbeitsnehmers",
+    "b": "eine vom Arbeitnehmer bewertete Leistung des Arbeitsgebers",
+    "c2": "ein Vertrag zwischen Arbeitnehmer-Verbänden und Arbeitgeber-Verbänden über die Arbeitsbedingungen in einer bestimmten Branche",
+    "d": "vom Arbeitgeber ausgestellte Urkunde, die Auskunft über die Leistung und das Verhalten des Arbeitnehmers macht",
+    "ans": "d",
+    "bp": [
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "id": 128,
+    "s": "2.1",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#1A5276",
+    "q": "Welche Versicherung im Gesundheitswesen ist Pflicht?",
+    "a": "die Versicherung für Alternativmedizin",
+    "b": "die zahnmedizinische Versicherung",
+    "c2": "die Zusatzversicherung",
+    "d": "die obligatorische Krankenpflegeversicherung",
+    "ans": "d",
+    "bp": [
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "id": 129,
+    "s": "2.1",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#1A5276",
+    "q": "Arbeitnehmende und Selbständigerwerbende mit Kindern haben Anspruch auf …",
+    "a": "Kinderbegünstigung.",
+    "b": "Elternentlastung.",
+    "c2": "Familienzulage.",
+    "d": "Finanzhilfe.",
+    "ans": "c",
+    "bp": [
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "id": 130,
+    "s": "2.1",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#1A5276",
+    "q": "Der Zivildienst in der Schweiz ist ...",
+    "a": "für alle Männer und Frauen obligatorisch.",
+    "b": "ein freiwilliger Einsatz für die Gesellschaft.",
+    "c2": "ein Ersatz zum Militärdienst.",
+    "d": "ein Freifach der obligatorischen Schule.",
+    "ans": "c",
+    "bp": [
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "id": 131,
+    "s": "2.1",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#1A5276",
+    "q": "Welche Aussage zur obligatorischen Versicherung in einer Krankenkasse in der Schweiz ist richtig?",
+    "a": "Jede Krankenkasse bestimmt ihre Leistungen selbst.",
+    "b": "Man kann die Krankenkasse frei wählen.",
+    "c2": "Es ist freiwillig, eine Krankenkasse zu haben.",
+    "d": "Der Kanton kann seinen Einwohnerinnen und Einwohnern eine Krankenkasse zuteilen.",
+    "ans": "b",
+    "bp": [
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "id": 132,
+    "s": "2.1",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#1A5276",
+    "q": "Wann dürfen Einwohnerinnen und Einwohner ohne Schweizer Pass an nationalen Abstimmungen teilnehmen?",
+    "a": "nur bei Abstimmungen über Volksinitiativen",
+    "b": "nur bei nationalen Referenden",
+    "c2": "Sie dürfen gar nicht abstimmen.",
+    "d": "nur bei den Abstimmungen Ende Jahr",
+    "ans": "c",
+    "bp": [
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "id": 133,
+    "s": "2.1",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#1A5276",
+    "q": "Für was steht in der Schweiz die Nummer 117?",
+    "a": "für den Polizeinotruf",
+    "b": "für die Auskunft",
+    "c2": "für die Abfallentsorgungsstelle",
+    "d": "für den Pannendienst",
+    "ans": "a",
+    "bp": [
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "id": 134,
+    "s": "2.1",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#1A5276",
+    "q": "Was gehört zum Schweizer Sozialversicherungs-Systems?",
+    "a": "Schutz vor Folgen bei Krankheit und Unfall",
+    "b": "Schutz vor Einbrechern",
+    "c2": "Schutz vor Hochwasser und Unwetter",
+    "d": "Schutz vor privatem Kommunikationsmissbrauch",
+    "ans": "a",
+    "bp": [
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "id": 135,
+    "s": "2.1",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#1A5276",
+    "q": "Für was gibt es in der Schweiz eine Sozialversicherung?",
+    "a": "wenn man einen Zahn verliert",
+    "b": "wenn man die Stelle verliert",
+    "c2": "wenn das Velo gestohlen wird",
+    "d": "wenn man sich scheiden lässt",
+    "ans": "b",
+    "bp": [
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "id": 136,
+    "s": "2.1",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#1A5276",
+    "q": "Was ist eine Schweizer Sozialversicherung?",
+    "a": "Schulvorsorge",
+    "b": "Jugend- und Freizeitvorsorge",
+    "c2": "Alters-, Hinterlassenen- und Invalidenversicherung (AHV/IV)",
+    "d": "Scheidungsvorsorge",
+    "ans": "c",
+    "bp": [
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "id": 137,
+    "s": "2.1",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#1A5276",
+    "q": "Was ist die erste Säule der Altersvorsorge?",
+    "a": "das bedingungslose Grundeinkommen",
+    "b": "die Pensionskasse",
+    "c2": "der Grundpfeiler des Schweizer Parlamentsgebäudes",
+    "d": "die AHV (Alters-, Hinterlassenen- und Invalidenversicherung)",
+    "ans": "d",
+    "bp": [
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "id": 138,
+    "s": "2.1",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#1A5276",
+    "q": "Was ist die zweite Säule der Altersvorsorge?",
+    "a": "ein Denkmal auf dem Bundesplatz",
+    "b": "die Pensionskasse",
+    "c2": "die Krankenversicherung",
+    "d": "eine Erbschaft",
+    "ans": "b",
+    "bp": [
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "id": 139,
+    "s": "2.1",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#1A5276",
+    "q": "Was ist die dritte Säule der Altersvorsorge?",
+    "a": "die private Vorsorge",
+    "b": "der Dienstleistungssektor",
+    "c2": "die Invalidenversicherung",
+    "d": "der Erwerbsersatz",
+    "ans": "a",
+    "bp": [
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "id": 140,
+    "s": "2.1",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#1A5276",
+    "q": "Für was setzt sich Amnesty International ein?",
+    "a": "für die Senkung des CO2",
+    "b": "für die Artenvielfalt",
+    "c2": "für das Tierwohl",
+    "d": "für die Achtung der Menschenrechte",
+    "ans": "d",
+    "bp": [
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "id": 141,
+    "s": "2.1",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#1A5276",
+    "q": "Wer setzt sich für die Rechte von Arbeitnehmenden ein?",
+    "a": "Kirchen",
+    "b": "Gewerkschaften",
+    "c2": "Spitäler",
+    "d": "Schulen",
+    "ans": "b",
+    "bp": [
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "id": 142,
+    "s": "2.1",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#1A5276",
+    "q": "In der Schweiz sind seit 2002 Abtreibungen mit der Fristenlösung geregelt. Was bedeutet das?",
+    "a": "Eine Frau darf bis zur 12. Woche der Schwangerschaft frei entscheiden, ob sie das Kind behalten will.",
+    "b": "Eine Frau braucht die Erlaubnis ihres Ehemannes, um abzutreiben.",
+    "c2": "Abtreibung ist in jedem Fall verboten.",
+    "d": "Abtreibung ist nur erlaubt, wenn die Eltern nicht verheiratet sind.",
+    "ans": "a",
+    "bp": [
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "id": 143,
+    "s": "2.1",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#1A5276",
+    "q": "Was bedeutet AHV?",
+    "a": "Alters- und Hinterlassenenversicherung",
+    "b": "Auto- und Heimreiseversicherung",
+    "c2": "Arbeits- und Haushaltsversicherung",
+    "d": "Amt für Hausverwaltung",
+    "ans": "a",
+    "bp": [
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "id": 144,
+    "s": "2.1",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#1A5276",
+    "q": "Welche staatliche Unterstützung bekommen alle Familien in der Schweiz?",
+    "a": "keine Unterstützung",
+    "b": "kostenlose Zugfahrten und Busfahrten",
+    "c2": "Stipendien für Jugendliche in Ausbildung",
+    "d": "Kinderzulagen",
+    "ans": "d",
+    "bp": [
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "id": 145,
+    "s": "2.1",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#1A5276",
+    "q": "Welche Versicherung ist in der Schweiz obligatorisch?",
+    "a": "die Alters- und Hinterlassenenversicherung (AHV)",
+    "b": "die Jugendversicherung (JV)",
+    "c2": "die Lebensversicherung (LV)",
+    "d": "die Geburtenversicherung (GV)",
+    "ans": "a",
+    "bp": [
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "id": 146,
+    "s": "2.1",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#1A5276",
+    "q": "Wenn man mit der Steuerrechnung nicht einverstanden ist, . . .",
+    "a": "bezahlt man vorläufig nur die Hälfte des Betrags.",
+    "b": "muss man sie an die Steuerbehörden zurück schicken.",
+    "c2": "muss man sich bei der Polizei melden.",
+    "d": "kann man bei der Steuerbehörde schriftlich seine Einwände dagegen mitteilen.",
+    "ans": "d",
+    "bp": [
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "id": 147,
+    "s": "2.1",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#1A5276",
+    "q": "Wie unterstützt der Staat in der Schweiz die Familien?",
+    "a": "Es gibt keine Unterstützung.",
+    "b": "mit kostenlosem Internet",
+    "c2": "mit kostengünstigen Lebensmitteln",
+    "d": "mit Steuerabzügen",
+    "ans": "d",
+    "bp": [
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "id": 148,
+    "s": "2.1",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#1A5276",
+    "q": "Was finanziert der Staat mit Steuergeldern?",
+    "a": "Arztpraxen",
+    "b": "Kinos",
+    "c2": "Schulen",
+    "d": "Hotels",
+    "ans": "c",
+    "bp": [
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "id": 149,
+    "s": "2.1",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#1A5276",
+    "q": "Was ist eine Sozialversicherung in der Schweiz?",
+    "a": "die Auto- und Insassenversicherung (AIV)",
+    "b": "die Invalidenversicherung (IV)",
+    "c2": "die Diebstahlversicherung (DV)",
+    "d": "die Bau- und Feuerversicherung (BFV)",
+    "ans": "b",
+    "bp": [
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "id": 150,
+    "s": "2.1",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#1A5276",
+    "q": "Was wird Angestellten direkt vom Lohn abgezogen? Der Beitrag für die . . .",
+    "a": "Auto- und Unfallversicherung (AUV).",
+    "b": "Arbeitslosenversicherung (ALV).",
+    "c2": "Diebstahlversicherung (DV).",
+    "d": "Brandschutzversicherung (BSV).",
+    "ans": "b",
+    "bp": [
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "id": 151,
+    "s": "2.1",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#1A5276",
+    "q": "Was ist das RAV?",
+    "a": "Regionales Arbeitsvermittlungszentrum",
+    "b": "Rechtsstelle für Allgemeine Versicherungen",
+    "c2": "Institut für Rechtsfragen",
+    "d": "Rentenanstalt",
+    "ans": "a",
+    "bp": [
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "id": 152,
+    "s": "2.1",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#1A5276",
+    "q": "Was bedeutet die Abkürzung IV?",
+    "a": "Interessensvertretung",
+    "b": "Internationales Verfahren",
+    "c2": "Inakzeptables Vorkommen",
+    "d": "Invalidenversicherung",
+    "ans": "d",
+    "bp": [
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "id": 153,
+    "s": "2.1",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#1A5276",
+    "q": "Wer muss sich bei einer Krankenkasse versichern lassen?",
+    "a": "niemand",
+    "b": "nur Arbeitnehmerinnen und Arbeitnehmer",
+    "c2": "nur Kinder und ältere Menschen",
+    "d": "alle Einwohnerinnen und Einwohner",
+    "ans": "d",
+    "bp": [
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "id": 154,
+    "s": "2.1",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#1A5276",
+    "q": "Wer übernimmt die Spitalkosten bei einem schweren Arbeitsunfall?",
+    "a": "die betroffene Person selbst",
+    "b": "die Berufsunfallversicherung",
+    "c2": "die Gewerkschaft",
+    "d": "die Arbeitgeberin oder der Arbeitgeber",
+    "ans": "b",
+    "bp": [
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "id": 155,
+    "s": "2.1",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#1A5276",
+    "q": "Welche Versicherung ist in der Schweiz obligatorisch?",
+    "a": "Haftpflichtversicherung",
+    "b": "Krankenversicherung",
+    "c2": "Arbeitsversicherung",
+    "d": "Vermögensversicherung",
+    "ans": "b",
+    "bp": [
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "id": 156,
+    "s": "2.1",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#1A5276",
+    "q": "Was ist das BAG?",
+    "a": "die Bereitstellung allgemeiner Gesundheitsleistungen",
+    "b": "das Bundesamt für Gesundheit",
+    "c2": "das Bundesamt für allgemeine Grundversorgung",
+    "d": "das Kontrollorgan des Bundes für allgemeine Grundversicherungen",
+    "ans": "b",
+    "bp": [
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "id": 157,
+    "s": "2.1",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#1A5276",
+    "q": "Für was steht in der Schweiz die Nummer 144?",
+    "a": "für den Sanitätsnotruf",
+    "b": "für die Feuerwehrzentrale",
+    "c2": "für die Polizeizentrale",
+    "d": "für die Auskunft",
+    "ans": "a",
+    "bp": [
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "id": 158,
+    "s": "2.1",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#1A5276",
+    "q": "Ab wann muss ein Kind in der Schweiz eine Krankenversicherung haben?",
+    "a": "ab spätestens einem Jahr nach der Geburt",
+    "b": "ab Schuleintritt",
+    "c2": "ab spätestens drei Monaten nach der Geburt",
+    "d": "Ein Kind braucht keine eigene Krankenversicherung.",
+    "ans": "c",
+    "bp": [
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "id": 159,
+    "s": "2.1",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#1A5276",
+    "q": "Wie viele Jahre dauert in der Schweiz die obligatorische Schulzeit?",
+    "a": "11 Jahre",
+    "b": "13 Jahre",
+    "c2": "8 Jahre",
+    "d": "6 Jahre",
+    "ans": "a",
+    "bp": [
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "id": 160,
+    "s": "2.1",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#1A5276",
+    "q": "Wer entscheidet darüber, in welche Klasse ein Kind in der Primarschule kommt?",
+    "a": "die Eltern",
+    "b": "die Schulleitung oder die Schulpflege",
+    "c2": "die Kinderärztin oder der Kinderarzt",
+    "d": "die Kinder selbst",
+    "ans": "b",
+    "bp": [
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "id": 161,
+    "s": "2.1",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#1A5276",
+    "q": "Die Erziehung der Kinder ist vor allem Aufgabe …",
+    "a": "des Staats.",
+    "b": "der Grosseltern.",
+    "c2": "der Eltern.",
+    "d": "der Schulen.",
+    "ans": "c",
+    "bp": [
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "id": 162,
+    "s": "2.1",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#1A5276",
+    "q": "Was ist im Schweizer Bildungssystem obligatorisch?",
+    "a": "Weiterbildungskurse nach der Berufslehre",
+    "b": "Kindertagesstätte",
+    "c2": "Maturitätsschule",
+    "d": "Primarschule",
+    "ans": "d",
+    "bp": [
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "id": 163,
+    "s": "2.1",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#1A5276",
+    "q": "Eine Angestellte darf nicht entlassen werden, wenn sie ...",
+    "a": "immer pünktlich war.",
+    "b": "die Kündigung ablehnt.",
+    "c2": "schwanger ist.",
+    "d": "schon lange im Betrieb gearbeitet hat.",
+    "ans": "c",
+    "bp": [
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "id": 164,
+    "s": "2.1",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#1A5276",
+    "q": "Gewerkschaften vertreten die Interessen von ...",
+    "a": "Arbeitgeberinnen und Arbeitgebern.",
+    "b": "Arbeitnehmerinnen und Arbeitnehmern.",
+    "c2": "Jugendlichen.",
+    "d": "Betrieben.",
+    "ans": "b",
+    "bp": [
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "id": 165,
+    "s": "2.1",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#1A5276",
+    "q": "Für welchen Streitfall ist das Arbeitsgericht zuständig?",
+    "a": "Wenn Arbeitnehmende die Erbschaftssteuer nicht bezahlen.",
+    "b": "Wenn Arbeitnehmenden ohne Grund gekündigt wird",
+    "c2": "Wenn Arbeitnehmende ein Problem mit einer Nachbarin oder einem Nachbarn haben.",
+    "d": "Wenn Arbeitnehmende finanzielle Schwierigkeiten in der Familie haben, diese jedoch nichts mit dem Betrieb zu tun hat.",
+    "ans": "b",
+    "bp": [
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "id": 166,
+    "s": "2.1",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#1A5276",
+    "q": "An wen können sich Arbeitnehmerinnen und Arbeitnehmer bei arbeitsrechtlichen Fragen wenden?",
+    "a": "an Anwälte, Gewerkschaften und Arbeitsgerichte",
+    "b": "an die Steuerverwaltung",
+    "c2": "an die Polizei und die Einwohnerkontrolle der Gemeinde",
+    "d": "an die Kirchgemeinde und den Zivilschutz",
+    "ans": "a",
+    "bp": [
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "id": 167,
+    "s": "2.1",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#1A5276",
+    "q": "Was muss man machen, wenn man ein Arbeitsverhältnis regulär beenden will?",
+    "a": "warten, bis die Chefin oder der Chef aus den Ferien zurück ist",
+    "b": "den Arbeitsplatz räumen und dann dem Arbeitsplatz fern bleiben",
+    "c2": "den Arbeitsvertrag vernichten",
+    "d": "mit einem eingeschriebenen Brief kündigen oder den Eingang der Kündigung schriftlich bestätigen lassen",
+    "ans": "d",
+    "bp": [
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "id": 168,
+    "s": "2.1",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#1A5276",
+    "q": "Economiesuisse vertritt die Interessen ...",
+    "a": "der Angestellten.",
+    "b": "der Unternehmen.",
+    "c2": "des Gastgewerbes.",
+    "d": "der Handwerkerinnen und Handwerker.",
+    "ans": "b",
+    "bp": [
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "id": 169,
+    "s": "2.1",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#1A5276",
+    "q": "Was ist in einem Arbeitsvertrag unter anderem geregelt? Es ist geregelt, ...",
+    "a": "welche Krankenkasse man wählen muss.",
+    "b": "wie hoch die Altersrente ist.",
+    "c2": "wie die Freizeit gestaltet wird.",
+    "d": "wie hoch der Lohn ist.",
+    "ans": "d",
+    "bp": [
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "id": 170,
+    "s": "2.1",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#1A5276",
+    "q": "Was kann man tun, wenn die Arbeitgeberin oder der Arbeitgeber ohne Grund zu wenig Lohn ausbezahlt?",
+    "a": "Es gibt keine rechtlichen Möglichkeiten.",
+    "b": "Man kann bis zum Vertragsende nicht mehr zur Arbeit gehen.",
+    "c2": "Man kann an das Arbeitsgericht gelangen.",
+    "d": "Man kann Anzeige bei der Polizei machen.",
+    "ans": "c",
+    "bp": [
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "id": 171,
+    "s": "2.1",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#1A5276",
+    "q": "Was ist ein Berufsbildungszentrum?",
+    "a": "eine Arbeitsvermittlungsstelle",
+    "b": "ein Standort, an dem unterschiedliche Angebote zur beruflichen Bildung beitragen",
+    "c2": "eine Fachhochschule",
+    "d": "ein arbeitstechnisches Forschungszentrum",
+    "ans": "b",
+    "bp": [
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "id": 172,
+    "s": "2.1",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#1A5276",
+    "q": "Welcher Feiertag gilt nach Gesetz für die ganze Schweiz?",
+    "a": "1. August",
+    "b": "Auffahrt",
+    "c2": "Karfreitag",
+    "d": "1. Mai",
+    "ans": "a",
+    "bp": [
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "id": 173,
+    "s": "2.1",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#1A5276",
+    "q": "Was ist das ordentliche Rentenalter der Schweiz?",
+    "a": "63 Jahre bei Frauen und Männern",
+    "b": "64 Jahre bei Frauen und Männern",
+    "c2": "65 Jahre bei Frauen und Männern",
+    "d": "66 Jahre bei Frauen und Männern",
+    "ans": "c",
+    "bp": [
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "id": 174,
+    "s": "2.1",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#1A5276",
+    "q": "Wer bezahlt keine Prämien für Arbeitslosenversicherung?",
+    "a": "Personen in der Berufsausbildung",
+    "b": "Pensionierte",
+    "c2": "Arbeitnehmerinnen und Arbeitnehmer",
+    "d": "alle Personen ab 50 Jahren",
+    "ans": "b",
+    "bp": [
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "id": 175,
+    "s": "2.1",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#1A5276",
+    "q": "Wo findet man Informationen über Lehrstellen, Beruf und Arbeit?",
+    "a": "auf der Steuerverwaltung",
+    "b": "im Bundesarchiv",
+    "c2": "im Staatssekretariat für Bildung, Forschung und Innovation",
+    "d": "im Berufsinformationszentrum",
+    "ans": "d",
+    "bp": [
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "id": 176,
+    "s": "2.1",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#1A5276",
+    "q": "Wer ist der wichtigste Handelspartner der Schweiz (Stand 2017)?",
+    "a": "EU",
+    "b": "USA",
+    "c2": "China",
+    "d": "Russland",
+    "ans": "a",
+    "bp": [
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "id": 177,
+    "s": "2.1",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#1A5276",
+    "q": "Wann hat man als Arbeitnehmerin oder Arbeitnehmer Anrecht auf bezahlte freie Stunden oder Tage am Arbeitsplatz?",
+    "a": "bei Stromausfall",
+    "b": "für die Ausübung eines öffentlichen Amtes",
+    "c2": "für die Erledigung von Administration auf der Bank oder Post",
+    "d": "bei der Einschulung der eigenen Kinder",
+    "ans": "b",
+    "bp": [
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "id": 178,
+    "s": "2.1",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#1A5276",
+    "q": "Was bedeutet MWST?",
+    "a": "Meinungsfreiheit",
+    "b": "mittlerer Wohlstand",
+    "c2": "Mehrwertsteuer",
+    "d": "Mass für Wasserstand in Flüssen",
+    "ans": "c",
+    "bp": [
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "id": 179,
+    "s": "2.1",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#1A5276",
+    "q": "Welche Aussage zum Mutterschaftsurlaub in der Schweiz ist richtig?",
+    "a": "Der Mutterschaftsurlaub beträgt 20 Wochen.",
+    "b": "Die normalen Ferien nach der Geburt des Kindes muss man zuerst aufbrauchen. Danach gibt es Mutterschaftsurlaub.",
+    "c2": "Den Mutterschaftsurlaub dürfen Frauen im Alter von 20 bis 50 Jahren nur einmal beziehen.",
+    "d": "Jede Frau, die arbeitet und ein Kind bekommt, hat das Recht auf Mutterschaftsurlaub.",
+    "ans": "d",
+    "bp": [
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "id": 180,
+    "s": "2.1",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#1A5276",
+    "q": "Was ist in der Schweiz verboten? Es ist verboten, …",
+    "a": "als Mann und Frau unverheiratet zusammen zu leben.",
+    "b": "als erwachsene Person mit den Eltern zusammen zu leben.",
+    "c2": "als Mann mit zwei Frauen zur selben Zeit verheiratet zu sein.",
+    "d": "als Mann für seine Kinder allein zu sorgen.",
+    "ans": "c",
+    "bp": [
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "id": 181,
+    "s": "2.1",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#1A5276",
+    "q": "Was regelt der Mietvertrag für eine Wohnung?",
+    "a": "den Wohnstandard",
+    "b": "die Rechte und Pflichten der Vertragspartner",
+    "c2": "was gekocht werden darf",
+    "d": "wie die Wohnung eingerichtet werden muss",
+    "ans": "b",
+    "bp": [
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "id": 182,
+    "s": "2.1",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#1A5276",
+    "q": "Unter welchen Voraussetzungen darf man in der Schweiz heiraten?",
+    "a": "Die Braut muss schwanger sein.",
+    "b": "Man muss 18 Jahre alt und urteilsfähig sein.",
+    "c2": "Man muss über ein Mindesteinkommen verfügen.",
+    "d": "Die Eltern müssen einverstanden sein.",
+    "ans": "b",
+    "bp": [
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "id": 183,
+    "s": "2.1",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#1A5276",
+    "q": "Wer kann einen Antrag auf Scheidung stellen?",
+    "a": "nur der Ehemann",
+    "b": "die Kinder der Eheleute",
+    "c2": "die Ehefrau oder der Ehemann oder beide zusammen",
+    "d": "nur die Ehefrau",
+    "ans": "c",
+    "bp": [
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "id": 184,
+    "s": "2.1",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#1A5276",
+    "q": "Wer muss beim Zivilstandsamt den Heiratswillen anmelden?",
+    "a": "nur der Mann allein",
+    "b": "nur die Eltern",
+    "c2": "Das verlobte Paar gemeinsam",
+    "d": "nur die Frau allein",
+    "ans": "c",
+    "bp": [
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "id": 185,
+    "s": "2.1",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#1A5276",
+    "q": "Wen muss man auf begründetes Verlangen in die eigene Wohnung lassen?",
+    "a": "die Pöstlerin oder den Pöstler",
+    "b": "die Vermieterin oder den Vermieter",
+    "c2": "Personen, die für ein öffentliches Amt in der Gemeinde kandidieren",
+    "d": "die Arbeitgeberin oder den Arbeitgeber",
+    "ans": "b",
+    "bp": [
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "id": 186,
+    "s": "2.1",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#1A5276",
+    "q": "Was ist der Mieterinnen- und Mieterverband?",
+    "a": "eine Schlichtungsstelle des Bundes in Mietfragen",
+    "b": "ein Wohnungsvermittlungsinstitut",
+    "c2": "eine Interessensvertretung der Mieterinnen und Mieter",
+    "d": "ein Zusammenschluss aller Mieterinnen und Mieter der Schweiz",
+    "ans": "c",
+    "bp": [
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "id": 187,
+    "s": "2.1",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#1A5276",
+    "q": "Was ist eine Voraussetzung für eine Eheschliessung in der Schweiz?",
+    "a": "Beide Partner müssen mindestens 16 Jahre alt sein.",
+    "b": "Die Partner müssen bereits in einer eingetragenen Partnerschaft leben.",
+    "c2": "Die Partner müssen den gleichen Wohnsitz haben.",
+    "d": "Die Partner dürfen nicht eng verwandt sein.",
+    "ans": "d",
+    "bp": [
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "id": 188,
+    "s": "2.1",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#1A5276",
+    "q": "Wann kann der Fahrausweis entzogen werden?",
+    "a": "bei unerlaubtem Hupen",
+    "b": "bei Fahren unter Einfluss von Alkohol oder Drogen",
+    "c2": "bei falschem Parkieren",
+    "d": "bei Fahren bei starkem Nebel",
+    "ans": "b",
+    "bp": [
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "id": 189,
+    "s": "2.1",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#1A5276",
+    "q": "Welchen Nachnamen bekommt ein Kind von verheirateten Eltern?",
+    "a": "immer einen Doppelnamen mit dem Namen der Mutter zuerst",
+    "b": "immer den Namen des Vaters",
+    "c2": "immer den Namen der Mutter",
+    "d": "muss von den Eltern ohne gemeinsamen Familiennamen bei der Heirat entschieden werden",
+    "ans": "d",
+    "bp": [
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "id": 190,
+    "s": "2.1",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#1A5276",
+    "q": "Besitzer eines Hundes müssen für ihren Hund …",
+    "a": "einen Namen haben.",
+    "b": "eine Geburtsurkunde besitzen.",
+    "c2": "Hundesteuern zahlen.",
+    "d": "eine Krankenversicherung abschliessen.",
+    "ans": "c",
+    "bp": [
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "id": 191,
+    "s": "2.2",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Kanton Zürich",
+    "lv": "cantonal",
+    "c": "#1A5276",
+    "q": "Wann kann jemand sogenannte Ergänzungsleistungen beziehen?",
+    "a": "Wenn man eine Lehrstelle in einem Betrieb hat.",
+    "b": "Wenn man den Mindestlohn nicht erreicht.",
+    "c2": "Wenn man trotz IV- oder AHV-Rente das Existenzminimum nicht erreicht.",
+    "d": "Wenn man arbeitslos ist.",
+    "ans": "c",
+    "bp": [
+      36,
+      37,
+      54
+    ]
+  },
+  {
+    "id": 192,
+    "s": "2.2",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Kanton Zürich",
+    "lv": "cantonal",
+    "c": "#1A5276",
+    "q": "Wo muss man in der Schweiz obligatorisch Mitglied sein?",
+    "a": "in einer Partei",
+    "b": "in einem Sportverein",
+    "c2": "in einer Krankenkasse",
+    "d": "in einem Automobilclub oder Veloclub",
+    "ans": "c",
+    "bp": [
+      36,
+      37,
+      54
+    ]
+  },
+  {
+    "id": 193,
+    "s": "2.2",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Kanton Zürich",
+    "lv": "cantonal",
+    "c": "#1A5276",
+    "q": "Wer darf einen Verein gründen?",
+    "a": "nur Personen mit einem sportlichen Leistungsausweis",
+    "b": "nur Personen ab einem bestimmten Einkommen",
+    "c2": "jede Person in der Schweiz",
+    "d": "alle Frauen und Männer ab 21 Jahren",
+    "ans": "c",
+    "bp": [
+      36,
+      37,
+      54
+    ]
+  },
+  {
+    "id": 194,
+    "s": "2.2",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Kanton Zürich",
+    "lv": "cantonal",
+    "c": "#1A5276",
+    "q": "2.2 Kanton Was gehört zu den wichtigsten Kantonssteuern und Gemeindesteuern?",
+    "a": "Vermögenssteuer",
+    "b": "Tabaksteuer",
+    "c2": "Privatsteuer",
+    "d": "Handysteuer",
+    "ans": "a",
+    "bp": [
+      36,
+      37,
+      54
+    ]
+  },
+  {
+    "id": 195,
+    "s": "2.3",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Gemeinde",
+    "lv": "cantonal",
+    "c": "#1A5276",
+    "q": "Was gehört zu den wichtigsten Kantonssteuern und Gemeindesteuern?",
+    "a": "Verrechnungssteuer",
+    "b": "Alkoholsteuer",
+    "c2": "Zölle",
+    "d": "Einkommenssteuer",
+    "ans": "d",
+    "bp": [
+      25,
+      56,
+      57
+    ]
+  },
+  {
+    "id": 196,
+    "s": "2.3",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Gemeinde",
+    "lv": "cantonal",
+    "c": "#1A5276",
+    "q": "Wer ist in der Schweiz in erster Linie für die Volksschule verantwortlich?",
+    "a": "die Bundesschulverwaltung",
+    "b": "die Kantone und Gemeinden",
+    "c2": "die Schulkonferenz der Kantone",
+    "d": "der Volksschulrat",
+    "ans": "b",
+    "bp": [
+      25,
+      56,
+      57
+    ]
+  },
+  {
+    "id": 197,
+    "s": "2.3",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Gemeinde",
+    "lv": "cantonal",
+    "c": "#1A5276",
+    "q": "Wann beginnt die obligatorische Schulzeit im Kanton Zürich?",
+    "a": "Kindergarten",
+    "b": "Primarschule",
+    "c2": "Spielgruppe",
+    "d": "Einführungsklasse",
+    "ans": "a",
+    "bp": [
+      25,
+      56,
+      57
+    ]
+  },
+  {
+    "id": 198,
+    "s": "2.3",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Gemeinde",
+    "lv": "cantonal",
+    "c": "#1A5276",
+    "q": "2.3 Gemeinde Was ist ein Quartierverein?",
+    "a": "Ein Verein, der die Rechte eines Quartiers gegenüber dem Bund und dem Kanton regelt.",
+    "b": "Ein Verein, der für die Interessen der Bewohnerinnen und Bewohner eines Quartiers gegenüber Behörden eintritt und das gesellschaftliche Leben fördert.",
+    "c2": "Ein Verein, in dem Bewohnerinnen und Bewohner eines Quartiers automatisch Mitglied sind.",
+    "d": "Ein Verein, der die Verkehrswege innerhalb eines Quartiers regelt und die Einhaltung der Verkehrsvorschriften kontrolliert.",
+    "ans": "b",
+    "bp": [
+      25,
+      56,
+      57
+    ]
+  },
+  {
+    "id": 199,
+    "s": "2.3",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Gemeinde",
+    "lv": "cantonal",
+    "c": "#1A5276",
+    "q": "Was will der Finanzausgleich zwischen den Gemeinden?",
+    "a": "Er soll helfen, die Korruption zu bekämpfen.",
+    "b": "Er soll helfen, eine Inflation zu vermeiden.",
+    "c2": "Er zwingt arme Gemeinden zur Erledigung ihrer Pflichten (Schulen, Altersheime, usw.).",
+    "d": "Er unterstützt arme Gemeinden oder Gemeinden mit hohen Sozialausgaben bei der Erledigung ihrer Aufgaben.",
+    "ans": "d",
+    "bp": [
+      25,
+      56,
+      57
+    ]
+  },
+  {
+    "id": 200,
+    "s": "2.3",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Gemeinde",
+    "lv": "cantonal",
+    "c": "#1A5276",
+    "q": "Welche Unterstützung gibt die Gemeinde, wenn das eigene Einkommen oder Vermögen für den Lebensunterhalt nicht ausreicht?",
+    "a": "Geld für Mahlzeiten (Kostgeld)",
+    "b": "einen Gemeindebeitrag (Gemeinderappen)",
+    "c2": "Sozialhilfe",
+    "d": "Kantonsgeld",
+    "ans": "c",
+    "bp": [
+      25,
+      56,
+      57
+    ]
+  },
+  {
+    "id": 201,
+    "s": "2.3",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Gemeinde",
+    "lv": "cantonal",
+    "c": "#1A5276",
+    "q": "Wo kann man sich über Angebote und Regelungen der Gemeinde informieren?",
+    "a": "in der Lokalzeitung oder im Internet",
+    "b": "im Fernsehen",
+    "c2": "am Anschlagbrett im Einkaufszentrum",
+    "d": "auf Plakaten",
+    "ans": "a",
+    "bp": [
+      25,
+      56,
+      57
+    ]
+  },
+  {
+    "id": 202,
+    "s": "2.3",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Gemeinde",
+    "lv": "cantonal",
+    "c": "#1A5276",
+    "q": "Für welche sozialen Leistungen zahlen die Gemeinden?",
+    "a": "Sozialhilfe in einer Notsituation",
+    "b": "Altersrente",
+    "c2": "Kosten für die Fahrprüfung",
+    "d": "Reisekosten in der Freizeit",
+    "ans": "a",
+    "bp": [
+      25,
+      56,
+      57
+    ]
+  },
+  {
+    "id": 203,
+    "s": "2.3",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Gemeinde",
+    "lv": "cantonal",
+    "c": "#1A5276",
+    "q": "Wer ist zuständig für die Finanzierung und Organisation der Primarschule?",
+    "a": "die Eltern",
+    "b": "der Kanton mit den Gemeinden",
+    "c2": "der Bund",
+    "d": "der Schulkreis",
+    "ans": "b",
+    "bp": [
+      25,
+      56,
+      57
+    ]
+  },
+  {
+    "id": 204,
+    "s": "2.3",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Gemeinde",
+    "lv": "cantonal",
+    "c": "#1A5276",
+    "q": "Wo muss man sich melden, wenn man heiraten möchte?",
+    "a": "an die Eltern",
+    "b": "an die Regionale Partnervermittlung",
+    "c2": "an das Zivilstandsamt",
+    "d": "an die Eheberatung",
+    "ans": "c",
+    "bp": [
+      25,
+      56,
+      57
+    ]
+  },
+  {
+    "id": 205,
+    "s": "2.3",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Gemeinde",
+    "lv": "cantonal",
+    "c": "#1A5276",
+    "q": "Wo muss man sich melden, wenn man umzieht?",
+    "a": "bei den Steuerbehörden",
+    "b": "bei der Polizei",
+    "c2": "bei der Gebäudeversicherung",
+    "d": "bei der Gemeinde (Einwohnerkontrolle)",
+    "ans": "d",
+    "bp": [
+      25,
+      56,
+      57
+    ]
+  },
+  {
+    "id": 206,
+    "s": "2.3",
+    "t": "Sozialstaat & Zivilgesellschaft",
+    "st": "Gemeinde",
+    "lv": "cantonal",
+    "c": "#1A5276",
+    "q": "Wer leitet die Volksschulen in den Zürcher Gemeinden?",
+    "a": "der Elternrat",
+    "b": "die Schulleitung",
+    "c2": "das Schulsekretariat",
+    "d": "die Konferenz der Lehrpersonen",
+    "ans": "b",
+    "bp": [
+      25,
+      56,
+      57
+    ]
+  },
+  {
+    "id": 207,
+    "s": "3.1",
+    "t": "Geschichte",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#117A65",
+    "q": "Im Jahr 1798 machte ein europäischer Herrscher für kurze Zeit einen Zentralstaat aus der Eidgenossenschaft. Wie hiess der Herrscher?",
+    "a": "Rudolf von Habsburg",
+    "b": "Friedrich der Grosse",
+    "c2": "Karl der Kühne",
+    "d": "Napoleon Bonaparte",
+    "ans": "d",
+    "bp": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "id": 208,
+    "s": "3.1",
+    "t": "Geschichte",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#117A65",
+    "q": "Wer war wichtig bei der Gründung der Eidgenössischen Technischen Hochschule (ETH), dem Eisenbahnbau und der Gründung der heutigen Crédit Suisse?",
+    "a": "Conrad Ferdinand Meyer",
+    "b": "Robert Grimm",
+    "c2": "Henri Dufour",
+    "d": "Alfred Escher",
+    "ans": "d",
+    "bp": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "id": 209,
+    "s": "3.1",
+    "t": "Geschichte",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#117A65",
+    "q": "Beim Landesstreik 1918 forderten die Arbeitenden mehr Rechte. Was war eine Folge des Landesstreiks?",
+    "a": "Die 48-Stunden-Woche wurde eingeführt.",
+    "b": "Die Arbeitenden konnten mit der Eisenbahn gratis zur Arbeit fahren.",
+    "c2": "Arbeitenden bekamen 6 Wochen Ferien.",
+    "d": "Die Fabriken wurden Eigentum des Staates.",
+    "ans": "a",
+    "bp": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "id": 210,
+    "s": "3.1",
+    "t": "Geschichte",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#117A65",
+    "q": "Was verlangte die sogenannte «Schwarzenbach-Initiative» 1970?",
+    "a": "die Einführung des Englischunterrichts in der Primarschule",
+    "b": "ein Verbot von Minarettbauten",
+    "c2": "die Abschaffung der Armee",
+    "d": "eine Begrenzung der Anzahl Ausländerinnen und Ausländer",
+    "ans": "d",
+    "bp": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "id": 211,
+    "s": "3.1",
+    "t": "Geschichte",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#117A65",
+    "q": "Welche Bedeutung hat das Jahr 1848 für die Geschichte der Schweiz?",
+    "a": "Gründung des Schweizer Bundesstaates",
+    "b": "Garantie der Neutralität durch die europäischen Mächte",
+    "c2": "Niederlage eidgenössischer Truppen bei Marignano",
+    "d": "Unabhängigkeit vom Heiligen Römischen Reich",
+    "ans": "a",
+    "bp": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "id": 212,
+    "s": "3.1",
+    "t": "Geschichte",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#117A65",
+    "q": "Wie heisst die Schweizer Nationalhymne?",
+    "a": "Swiss-Song",
+    "b": "Hallelujah",
+    "c2": "Schweizerpsalm",
+    "d": "Schweizer Hit",
+    "ans": "c",
+    "bp": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "id": 213,
+    "s": "3.1",
+    "t": "Geschichte",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#117A65",
+    "q": "Welcher Kanton ist erst seit 1979 ein eigenständiger Kanton?",
+    "a": "St. Gallen",
+    "b": "Jura",
+    "c2": "Zürich",
+    "d": "Solothurn",
+    "ans": "b",
+    "bp": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "id": 214,
+    "s": "3.1",
+    "t": "Geschichte",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#117A65",
+    "q": "Im 16. Jahrhundert gab es in Europa und in der Schweiz eine wichtige religiöse Bewegung. Wie heisst sie?",
+    "a": "Islamisierung",
+    "b": "Reformation",
+    "c2": "Skeptizismus",
+    "d": "Hinduismus",
+    "ans": "b",
+    "bp": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "id": 215,
+    "s": "3.1",
+    "t": "Geschichte",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#117A65",
+    "q": "Wann haben Schweizer Frauen das Stimm- und Wahlrecht auf Bundesebene bekommen?",
+    "a": "1918",
+    "b": "1971",
+    "c2": "1948",
+    "d": "1988",
+    "ans": "b",
+    "bp": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "id": 216,
+    "s": "3.1",
+    "t": "Geschichte",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#117A65",
+    "q": "In den 1950er-Jahren brauchte die Schweiz ausländische Arbeitskräfte. Woher kamen die meisten?",
+    "a": "Portugal",
+    "b": "Frankreich",
+    "c2": "Italien",
+    "d": "Griechenland",
+    "ans": "c",
+    "bp": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "id": 217,
+    "s": "3.1",
+    "t": "Geschichte",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#117A65",
+    "q": "Warum kamen viele Menschen in den 1990-er Jahren aus (Ex-)Jugoslawien in die Schweiz?",
+    "a": "Sie wollten an einer Schweizer Universität studieren.",
+    "b": "Sie wollten ihre Verwandten besuchen und die Schweiz bereisen.",
+    "c2": "Sie flohen vor dem Krieg aus ihrer Heimat.",
+    "d": "Sie wurden beim Staudammprojekt Grand-Dixence als Arbeitskräfte benötigt.",
+    "ans": "c",
+    "bp": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "id": 218,
+    "s": "3.1",
+    "t": "Geschichte",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#117A65",
+    "q": "Wie kann man das Verhältnis der Schweiz zu den kriegführenden Mächten im Zweiten Weltkrieg beschreiben?",
+    "a": "Bündnispartner der Alliierten",
+    "b": "Bündnispartner der Achsenmächte",
+    "c2": "neutral - politische und wirtschaftliche Beziehungen zu den kriegführenden Mächten",
+    "d": "neutral - keine Beziehungen zu den kriegführenden Mächten",
+    "ans": "c",
+    "bp": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "id": 219,
+    "s": "3.1",
+    "t": "Geschichte",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#117A65",
+    "q": "In der Schweiz begann die Industrialisierung im frühen 19. Jahrhundert. Was war dabei am wichtigsten?",
+    "a": "Textilindustrie",
+    "b": "Stahlindustrie",
+    "c2": "Kohlenförderung",
+    "d": "Autoindustrie",
+    "ans": "a",
+    "bp": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "id": 220,
+    "s": "3.1",
+    "t": "Geschichte",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#117A65",
+    "q": "Mann und Frau sind gleichberechtigt. Seit wann ist dieser Satz in der Verfassung?",
+    "a": "seit 1981",
+    "b": "seit 1968",
+    "c2": "seit 1996",
+    "d": "seit 1945",
+    "ans": "a",
+    "bp": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "id": 221,
+    "s": "3.1",
+    "t": "Geschichte",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#117A65",
+    "q": "Im 19. Jahrhundert wandelte sich die Schweiz ...",
+    "a": "vom Bundesstaat zum Zentralstaat.",
+    "b": "zu einer europäischen Grossmacht.",
+    "c2": "zu einer Kolonialmacht.",
+    "d": "vom Agrarstaat zum Industriestaat.",
+    "ans": "d",
+    "bp": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "id": 222,
+    "s": "3.1",
+    "t": "Geschichte",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#117A65",
+    "q": "Wann stieg der Lebensstandard in der Schweiz für viele Menschen deutlich an?",
+    "a": "um 1900",
+    "b": "in den 1930er-Jahren",
+    "c2": "in den 1960er-Jahren",
+    "d": "in den 1990er-Jahren",
+    "ans": "c",
+    "bp": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "id": 223,
+    "s": "3.1",
+    "t": "Geschichte",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#117A65",
+    "q": "Während der kolonialen Herrschaft Europas ...",
+    "a": "hatte die Schweiz Kolonien in Asien und Afrika.",
+    "b": "waren Schweizer Söldner in Russland aktiv.",
+    "c2": "exportierte die Schweiz Gewürze nach Nordamerika.",
+    "d": "konnte sich die Schweiz dank Zugang zu Rohstoffen als Industrienation etablieren.",
+    "ans": "d",
+    "bp": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "id": 224,
+    "s": "3.1",
+    "t": "Geschichte",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#117A65",
+    "q": "Welche Urkantone schlossen sich 1291 zu einem Bündnis zusammen?",
+    "a": "St. Gallen, Thurgau, Schaffhausen",
+    "b": "Genf, Waadt, Freiburg",
+    "c2": "Bern, Zürich, Zug",
+    "d": "Uri, Schwyz, Unterwalden",
+    "ans": "d",
+    "bp": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "id": 225,
+    "s": "3.1",
+    "t": "Geschichte",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#117A65",
+    "q": "Welches Volk lebte zur Zeit des alten Roms im Gebiet der heutigen Schweiz?",
+    "a": "Helvetier",
+    "b": "Eidgenossen",
+    "c2": "Etrusker",
+    "d": "Illyrier",
+    "ans": "a",
+    "bp": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "id": 226,
+    "s": "3.1",
+    "t": "Geschichte",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#117A65",
+    "q": "Wer kämpfte im Sonderbundskrieg 1847 gegeneinander?",
+    "a": "Adel und Bauern",
+    "b": "Zürich und Bern",
+    "c2": "Katholiken und Liberale",
+    "d": "Westschweiz und Tessin",
+    "ans": "c",
+    "bp": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "id": 227,
+    "s": "3.1",
+    "t": "Geschichte",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#117A65",
+    "q": "Von welcher antiken Herrschaft und Kultur stammt das hier abgebildete Amphitheater (in Avenches)?",
+    "a": "von den Galliern",
+    "b": "von den Römern",
+    "c2": "von den Wikingern",
+    "d": "von den Griechen",
+    "ans": "b",
+    "bp": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "id": 228,
+    "s": "3.1",
+    "t": "Geschichte",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#117A65",
+    "q": "Im Jahr 1515 verloren die Eidgenossen die Schlacht bei Marignano. Welche Folgen hatte diese Niederlage?",
+    "a": "Die Eidgenossen verzichteten auf die Eroberung weiterer Gebiete.",
+    "b": "Die Schweiz schaffte ihre Armee ab.",
+    "c2": "Die Bauern wehrten sich gegen die Regierungen in Bern, Zürich und Luzern.",
+    "d": "Die Eidgenossen überfielen die Stadt Zürich.",
+    "ans": "a",
+    "bp": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "id": 229,
+    "s": "3.1",
+    "t": "Geschichte",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#117A65",
+    "q": "Welche neue Glaubensrichtung entstand mit der Reformation?",
+    "a": "das Judentum",
+    "b": "der Buddhismus",
+    "c2": "der Islam",
+    "d": "der protestantische Glaube",
+    "ans": "d",
+    "bp": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "id": 230,
+    "s": "3.1",
+    "t": "Geschichte",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#117A65",
+    "q": "Was führte zur konfessionellen Spaltung der Schweiz?",
+    "a": "die Täuferbewegung",
+    "b": "die Reformation",
+    "c2": "der Generalstreik",
+    "d": "die Aufhebung der Klöster",
+    "ans": "b",
+    "bp": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "id": 231,
+    "s": "3.1",
+    "t": "Geschichte",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#117A65",
+    "q": "Was führte 1798 zur politischen Neuordnung der Eidgenossenschaft?",
+    "a": "die Einführung der allgemeinen Schulpflicht",
+    "b": "die Revolution im Waadtland",
+    "c2": "der Einmarsch der Franzosen in die Schweiz",
+    "d": "die Gründung des Kantons Zürich",
+    "ans": "c",
+    "bp": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "id": 232,
+    "s": "3.1",
+    "t": "Geschichte",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#117A65",
+    "q": "Was haben die europäischen Mächte am Wiener Kongress 1815 für die Schweiz festgelegt?",
+    "a": "die Befolgung der Neutralität",
+    "b": "die Aufhebung der Zölle an den Schweizer Grenzen",
+    "c2": "den Verzicht auf das Söldnerwesen",
+    "d": "die Loslösung von Österreich",
+    "ans": "a",
+    "bp": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "id": 233,
+    "s": "3.1",
+    "t": "Geschichte",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#117A65",
+    "q": "Wie wurde die Eidgenossenschaft in der Bundesverfassung von 1848 neu definiert?",
+    "a": "als Volksrepublik",
+    "b": "als föderalistischer Bundesstaat",
+    "c2": "als Zentralstaat",
+    "d": "als parlamentarische Monarchie",
+    "ans": "b",
+    "bp": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "id": 234,
+    "s": "3.1",
+    "t": "Geschichte",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#117A65",
+    "q": "Welche wichtige humanitäre Organisation wurde 1863 in Genf gegründet?",
+    "a": "Amnesty International",
+    "b": "die Pro Juventute",
+    "c2": "das Internationale Komitee vom Roten Kreuz (IKRK)",
+    "d": "die Glückskette",
+    "ans": "c",
+    "bp": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "id": 235,
+    "s": "3.1",
+    "t": "Geschichte",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#117A65",
+    "q": "Welche Erfindung hat die Schweizer Industrie im 18. Jahrhundert grundlegend verändert?",
+    "a": "der Benzinmotor (Otto-Motor)",
+    "b": "die Dampfmaschine",
+    "c2": "der Elektromotor",
+    "d": "der Computer",
+    "ans": "b",
+    "bp": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "id": 236,
+    "s": "3.1",
+    "t": "Geschichte",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#117A65",
+    "q": "Im Jahr 1877 hat man die Kinderarbeit in der Schweiz verboten. Warum?",
+    "a": "Kinder mussten zuhause auf den Bauernhöfen mithelfen.",
+    "b": "Kinder konnten bei schweren und gefährlichen Arbeiten sowieso nicht eingesetzt werden.",
+    "c2": "Kinder konnten nicht zur Schule gehen, weil sie in Fabriken arbeiteten.",
+    "d": "Kinder wurden zur Arbeit ausgeliehen. Sie verdienten dort aber zu wenig.",
+    "ans": "c",
+    "bp": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "id": 237,
+    "s": "3.1",
+    "t": "Geschichte",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#117A65",
+    "q": "Welche Versicherung wurde 1948 in der Schweiz eingeführt?",
+    "a": "die Haftpflichtversicherung für Motorfahrzeuge",
+    "b": "die Feuerversicherung",
+    "c2": "die Alters- und Hinterlassenenversicherung (AHV)",
+    "d": "die Lebensversicherung",
+    "ans": "c",
+    "bp": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "id": 238,
+    "s": "3.1",
+    "t": "Geschichte",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#117A65",
+    "q": "Seit wann dürfen Schweizer Bürgerinnen auf Bundesebene wählen und abstimmen?",
+    "a": "seit 1878",
+    "b": "seit 1946",
+    "c2": "seit 1919",
+    "d": "seit 1971",
+    "ans": "d",
+    "bp": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "id": 239,
+    "s": "3.1",
+    "t": "Geschichte",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#117A65",
+    "q": "Wer war die erste Frau im Schweizer Bundesrat?",
+    "a": "Ruth Dreifuss",
+    "b": "Elisabeth Kopp",
+    "c2": "Ruth Metzler",
+    "d": "Micheline Calmy-Rey",
+    "ans": "b",
+    "bp": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "id": 240,
+    "s": "3.1",
+    "t": "Geschichte",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#117A65",
+    "q": "Mit was wurden die Grundlagen der heutigen Beziehungen der Schweiz zur EU gelegt?",
+    "a": "mit der Zustimmung des Stimmvolks zu den Bilateralen Verträgen I im Jahr 2000",
+    "b": "mit der Ablehnung des EWR-Beitritts durch die Volksabstimmung im Jahr 1992",
+    "c2": "mit dem Rückzug des Gesuchs für einen EU-Beitritt der Schweiz im Jahr 2016",
+    "d": "mit dem UNO-Beitritt der Schweiz im Jahr 2002",
+    "ans": "a",
+    "bp": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "id": 241,
+    "s": "3.1",
+    "t": "Geschichte",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#117A65",
+    "q": "Wer war Wilhelm Tell?",
+    "a": "ein eidgenössischer Söldner in fremden Diensten",
+    "b": "eine Innerschweizer Sagenfigur, die gegen fremde Herrscher kämpfte",
+    "c2": "ein adliger Grundherr im Schweizer Mittelland",
+    "d": "ein Anführer im Bauernkrieg",
+    "ans": "b",
+    "bp": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "id": 242,
+    "s": "3.2",
+    "t": "Geschichte",
+    "st": "Kanton Zürich",
+    "lv": "cantonal",
+    "c": "#117A65",
+    "q": "Welche Organisation gründete Henry Dunant (1828-1910) in Genf?",
+    "a": "den Christlichen Verein junger Männer",
+    "b": "die Pro Juventute",
+    "c2": "das Internationale Komitee vom Roten Kreuz (IKRK)",
+    "d": "den Weltpostverein",
+    "ans": "c",
+    "bp": [
+      54,
+      55,
+      56
+    ]
+  },
+  {
+    "id": 243,
+    "s": "3.2",
+    "t": "Geschichte",
+    "st": "Kanton Zürich",
+    "lv": "cantonal",
+    "c": "#117A65",
+    "q": "In welcher Wirtschaftsbranche ist die Schweiz seit Jahrhunderten weltweit führend?",
+    "a": "in der Textilindustrie",
+    "b": "in der Uhrenindustrie",
+    "c2": "in der Autoindustrie",
+    "d": "im Bergbau",
+    "ans": "b",
+    "bp": [
+      54,
+      55,
+      56
+    ]
+  },
+  {
+    "id": 244,
+    "s": "3.2",
+    "t": "Geschichte",
+    "st": "Kanton Zürich",
+    "lv": "cantonal",
+    "c": "#117A65",
+    "q": "Weshalb wanderten viele Schweizerinnen und Schweizer im 19. Jahrhundert aus?",
+    "a": "Weil sie in der Schweiz politisch verfolgt wurden.",
+    "b": "Weil sie Berufserfahrung sammeln wollten.",
+    "c2": "Weil Hunger, Armut und Arbeitslosigkeit herrschte.",
+    "d": "Weil sie Lust auf Abenteuer hatten.",
+    "ans": "c",
+    "bp": [
+      54,
+      55,
+      56
+    ]
+  },
+  {
+    "id": 245,
+    "s": "3.2",
+    "t": "Geschichte",
+    "st": "Kanton Zürich",
+    "lv": "cantonal",
+    "c": "#117A65",
+    "q": "3.2 Kanton Für was wurde der Sechseläutenplatz im Zweiten Weltkrieg benutzt?",
+    "a": "als Chilbi",
+    "b": "als Sportplatz",
+    "c2": "als Pferderennbahn",
+    "d": "als Kartoffelfeld",
+    "ans": "d",
+    "bp": [
+      54,
+      55,
+      56
+    ]
+  },
+  {
+    "id": 246,
+    "s": "3.2",
+    "t": "Geschichte",
+    "st": "Kanton Zürich",
+    "lv": "cantonal",
+    "c": "#117A65",
+    "q": "Zur Römerzeit war der Name der Stadt Zürich …",
+    "a": "Vitudurum",
+    "b": "Vindonissa",
+    "c2": "Aquae Helveticae",
+    "d": "Turicum",
+    "ans": "d",
+    "bp": [
+      54,
+      55,
+      56
+    ]
+  },
+  {
+    "id": 247,
+    "s": "3.2",
+    "t": "Geschichte",
+    "st": "Kanton Zürich",
+    "lv": "cantonal",
+    "c": "#117A65",
+    "q": "Was haben die Römer nach Zürich gebracht?",
+    "a": "die Badekultur",
+    "b": "Chinesisches Porzellan",
+    "c2": "das Alphorn",
+    "d": "die Tropenhäuser des Botanischen Gartens",
+    "ans": "a",
+    "bp": [
+      54,
+      55,
+      56
+    ]
+  },
+  {
+    "id": 248,
+    "s": "3.2",
+    "t": "Geschichte",
+    "st": "Kanton Zürich",
+    "lv": "cantonal",
+    "c": "#117A65",
+    "q": "Von 5000 bis 1000 vor Christus bauten die Menschen am Zürichsee …",
+    "a": "Iglus.",
+    "b": "Pfahlbauten.",
+    "c2": "Kirchen.",
+    "d": "Höhlensysteme.",
+    "ans": "b",
+    "bp": [
+      54,
+      55,
+      56
+    ]
+  },
+  {
+    "id": 249,
+    "s": "3.2",
+    "t": "Geschichte",
+    "st": "Kanton Zürich",
+    "lv": "cantonal",
+    "c": "#117A65",
+    "q": "An was starb zwischen 1611 und 1635 fast die Hälfte der Zürcher Bevölkerung?",
+    "a": "an der Pest",
+    "b": "am Corona-Virus",
+    "c2": "an Krebs",
+    "d": "an der Spanischen Grippe",
+    "ans": "a",
+    "bp": [
+      54,
+      55,
+      56
+    ]
+  },
+  {
+    "id": 250,
+    "s": "3.2",
+    "t": "Geschichte",
+    "st": "Kanton Zürich",
+    "lv": "cantonal",
+    "c": "#117A65",
+    "q": "Ulrich Zwingli (1484-1531) war ein bekannter . . .",
+    "a": "Reformator in Zürich.",
+    "b": "Unternehmer.",
+    "c2": "Naturwissenschaftler.",
+    "d": "Musiker.",
+    "ans": "a",
+    "bp": [
+      54,
+      55,
+      56
+    ]
+  },
+  {
+    "id": 251,
+    "s": "3.2",
+    "t": "Geschichte",
+    "st": "Kanton Zürich",
+    "lv": "cantonal",
+    "c": "#117A65",
+    "q": "Den Kanton Zürich im modernen Sinn gibt es seit ...",
+    "a": "1415",
+    "b": "1291",
+    "c2": "1803",
+    "d": "1798",
+    "ans": "c",
+    "bp": [
+      54,
+      55,
+      56
+    ]
+  },
+  {
+    "id": 252,
+    "s": "3.2",
+    "t": "Geschichte",
+    "st": "Kanton Zürich",
+    "lv": "cantonal",
+    "c": "#117A65",
+    "q": "Wer hat die Kirche in Zürich reformiert?",
+    "a": "Jan Hus",
+    "b": "Ulrich Zwingli",
+    "c2": "Martin Luther",
+    "d": "Jean Calvin",
+    "ans": "b",
+    "bp": [
+      54,
+      55,
+      56
+    ]
+  },
+  {
+    "id": 253,
+    "s": "3.2",
+    "t": "Geschichte",
+    "st": "Kanton Zürich",
+    "lv": "cantonal",
+    "c": "#117A65",
+    "q": "Wofür hat sich Emilie Lieberherr (1924-2011) eingesetzt?",
+    "a": "für eine freie Presse",
+    "b": "für das Frauenstimmrecht",
+    "c2": "gegen den Beitritt der Schweiz zur UNO (Vereinte Nationen)",
+    "d": "für die Beteiligung der Schweiz an der Raumfahrt",
+    "ans": "b",
+    "bp": [
+      54,
+      55,
+      56
+    ]
+  },
+  {
+    "id": 254,
+    "s": "3.2",
+    "t": "Geschichte",
+    "st": "Kanton Zürich",
+    "lv": "cantonal",
+    "c": "#117A65",
+    "q": "Welche Fabriken gründeten Philippe Suchard (1797-1884) und Rudolph Lindt (1855-1909) in der Schweiz?",
+    "a": "Textilfabriken",
+    "b": "Druckereien",
+    "c2": "Schokoladefabriken",
+    "d": "Maschinenfabriken",
+    "ans": "c",
+    "bp": [
+      54,
+      55,
+      56
+    ]
+  },
+  {
+    "id": 255,
+    "s": "4.1",
+    "t": "Geografie",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#784212",
+    "q": "Was ist am Gotthard-Basis-Tunnel speziell?",
+    "a": "Er war der erste Tunnel in Europa.",
+    "b": "Er ist der einzige Eisenbahntunnel Europas.",
+    "c2": "Er ist der längste Eisenbahntunnel der Welt.",
+    "d": "Er hat den grössten Tunneldurchmesser der Welt.",
+    "ans": "c",
+    "bp": [
+      46,
+      47,
+      48
+    ]
+  },
+  {
+    "id": 256,
+    "s": "4.1",
+    "t": "Geografie",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#784212",
+    "q": "Simplon, Gotthard, Grosser Sankt Bernhard sind Beispiele für ...",
+    "a": "Schweizer Käsesorten.",
+    "b": "Schweizer Hauptverkehrsachsen.",
+    "c2": "Schweizer Naturreservate.",
+    "d": "Schweizer Alpenpässe.",
+    "ans": "d",
+    "bp": [
+      46,
+      47,
+      48
+    ]
+  },
+  {
+    "id": 257,
+    "s": "4.1",
+    "t": "Geografie",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#784212",
+    "q": "Wohin fliesst der Rhein?",
+    "a": "in die Nordsee",
+    "b": "ins Schwarze Meer",
+    "c2": "in den Pazifik",
+    "d": "ins Mittelmeer",
+    "ans": "a",
+    "bp": [
+      46,
+      47,
+      48
+    ]
+  },
+  {
+    "id": 258,
+    "s": "4.1",
+    "t": "Geografie",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#784212",
+    "q": "Wohin fliesst die Rhone?",
+    "a": "in die Ostsee",
+    "b": "in den Atlantik",
+    "c2": "ins Mittelmeer",
+    "d": "ins Schwarze Meer",
+    "ans": "c",
+    "bp": [
+      46,
+      47,
+      48
+    ]
+  },
+  {
+    "id": 259,
+    "s": "4.1",
+    "t": "Geografie",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#784212",
+    "q": "Rund zwei Drittel der ausländischen Bevölkerung der Schweiz ...",
+    "a": "kommen aus einem EU-Land.",
+    "b": "kommen aus Italien.",
+    "c2": "sprechen fliessend Englisch.",
+    "d": "leben in der Ostschweiz.",
+    "ans": "a",
+    "bp": [
+      46,
+      47,
+      48
+    ]
+  },
+  {
+    "id": 260,
+    "s": "4.1",
+    "t": "Geografie",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#784212",
+    "q": "Aus geografischer Sicht ist die Schweiz ...",
+    "a": "ein Binnenland.",
+    "b": "eine Exklave.",
+    "c2": "ein Kontinent.",
+    "d": "eine Insel.",
+    "ans": "a",
+    "bp": [
+      46,
+      47,
+      48
+    ]
+  },
+  {
+    "id": 261,
+    "s": "4.1",
+    "t": "Geografie",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#784212",
+    "q": "Über das Eisenbahnnetz der Schweiz sagt man, ...",
+    "a": "es sei das schönste der Welt.",
+    "b": "es sei das dichteste der Welt.",
+    "c2": "es sei das längste der Welt.",
+    "d": "es sei das billigste der Welt.",
+    "ans": "b",
+    "bp": [
+      46,
+      47,
+      48
+    ]
+  },
+  {
+    "id": 262,
+    "s": "4.1",
+    "t": "Geografie",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#784212",
+    "q": "Wer ist der wichtigste Handelspartner der Schweiz?",
+    "a": "USA",
+    "b": "EU",
+    "c2": "China",
+    "d": "Brasilien",
+    "ans": "b",
+    "bp": [
+      46,
+      47,
+      48
+    ]
+  },
+  {
+    "id": 263,
+    "s": "4.1",
+    "t": "Geografie",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#784212",
+    "q": "Die drei grossen geografischen Räume der Schweiz sind:",
+    "a": "Jura, Mittelland, Alpen",
+    "b": "Rhonetal, Südtäler, Alpennordfuss",
+    "c2": "Rheintal, Rhonetal, Aaretal",
+    "d": "Bündner Alpen, Innerschweizer Alpen, Berner Alpen",
+    "ans": "a",
+    "bp": [
+      46,
+      47,
+      48
+    ]
+  },
+  {
+    "id": 264,
+    "s": "4.1",
+    "t": "Geografie",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#784212",
+    "q": "Die Ausdehnung der Schweiz von Norden nach Süden ist ...",
+    "a": "580 km.",
+    "b": "220 km.",
+    "c2": "130 km.",
+    "d": "760 km.",
+    "ans": "b",
+    "bp": [
+      46,
+      47,
+      48
+    ]
+  },
+  {
+    "id": 265,
+    "s": "4.1",
+    "t": "Geografie",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#784212",
+    "q": "Die Ausdehnung der Schweiz von Osten nach Westen ist ...",
+    "a": "700 km.",
+    "b": "150 km.",
+    "c2": "350 km.",
+    "d": "900 km.",
+    "ans": "c",
+    "bp": [
+      46,
+      47,
+      48
+    ]
+  },
+  {
+    "id": 266,
+    "s": "4.1",
+    "t": "Geografie",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#784212",
+    "q": "Welcher Kanton ist ein Bergkanton?",
+    "a": "Wallis",
+    "b": "Schaffhausen",
+    "c2": "Zürich",
+    "d": "Aargau",
+    "ans": "a",
+    "bp": [
+      46,
+      47,
+      48
+    ]
+  },
+  {
+    "id": 267,
+    "s": "4.1",
+    "t": "Geografie",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#784212",
+    "q": "Wie heisst die höchste Bergspitze in der Schweiz?",
+    "a": "Dom",
+    "b": "Dufourspitze",
+    "c2": "Liskamm",
+    "d": "Weisshorn",
+    "ans": "b",
+    "bp": [
+      46,
+      47,
+      48
+    ]
+  },
+  {
+    "id": 268,
+    "s": "4.1",
+    "t": "Geografie",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#784212",
+    "q": "Was ist eine wichtige Aufgabe der Raumplanung?",
+    "a": "Schutz von unverbauten Landschaften",
+    "b": "Unterhalt von Kanalisationen",
+    "c2": "Bau von Einkaufszentren",
+    "d": "Finanzausgleich zwischen Gemeinden",
+    "ans": "a",
+    "bp": [
+      46,
+      47,
+      48
+    ]
+  },
+  {
+    "id": 269,
+    "s": "4.1",
+    "t": "Geografie",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#784212",
+    "q": "Warum werden die Gletscher in der Schweiz kleiner?",
+    "a": "wegen dem Klimawandel",
+    "b": "wegen den vielen Touristen in den Bergen",
+    "c2": "wegen der Benutzung für die Ski-Rennen",
+    "d": "wegen dem vielen Regen im Sommer",
+    "ans": "a",
+    "bp": [
+      46,
+      47,
+      48
+    ]
+  },
+  {
+    "id": 270,
+    "s": "4.1",
+    "t": "Geografie",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#784212",
+    "q": "Wie reagieren Förster auf den Anstieg der Temperaturen wegen des Klimawandels?",
+    "a": "Sie holzen die Wälder ab.",
+    "b": "Sie pflanzen andere Baumsorten.",
+    "c2": "Sie besprühen die Wälder.",
+    "d": "Sie verweigern die Arbeit.",
+    "ans": "b",
+    "bp": [
+      46,
+      47,
+      48
+    ]
+  },
+  {
+    "id": 271,
+    "s": "4.1",
+    "t": "Geografie",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#784212",
+    "q": "Wie heisst ein trockener und warmer Südwind in der Schweiz?",
+    "a": "Bise",
+    "b": "Föhn",
+    "c2": "Brise",
+    "d": "Führ",
+    "ans": "b",
+    "bp": [
+      46,
+      47,
+      48
+    ]
+  },
+  {
+    "id": 272,
+    "s": "4.1",
+    "t": "Geografie",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#784212",
+    "q": "Die Schweiz grenzt im Westen an …",
+    "a": "Portugal.",
+    "b": "Spanien.",
+    "c2": "Frankreich.",
+    "d": "Deutschland.",
+    "ans": "c",
+    "bp": [
+      46,
+      47,
+      48
+    ]
+  },
+  {
+    "id": 273,
+    "s": "4.1",
+    "t": "Geografie",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#784212",
+    "q": "Das Nachbarland im Süden der Schweiz ist …",
+    "a": "Spanien.",
+    "b": "Kroatien.",
+    "c2": "Liechtenstein.",
+    "d": "Italien.",
+    "ans": "d",
+    "bp": [
+      46,
+      47,
+      48
+    ]
+  },
+  {
+    "id": 274,
+    "s": "4.1",
+    "t": "Geografie",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#784212",
+    "q": "Wie heisst die grösste Stadt der Schweiz?",
+    "a": "Zürich",
+    "b": "Basel",
+    "c2": "Bern",
+    "d": "Genf",
+    "ans": "a",
+    "bp": [
+      46,
+      47,
+      48
+    ]
+  },
+  {
+    "id": 275,
+    "s": "4.1",
+    "t": "Geografie",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#784212",
+    "q": "Wo leben die meisten Menschen in der Schweiz?",
+    "a": "in den Alpen",
+    "b": "im Westschweizer Jura",
+    "c2": "im Mittelland",
+    "d": "im Tessin",
+    "ans": "c",
+    "bp": [
+      46,
+      47,
+      48
+    ]
+  },
+  {
+    "id": 276,
+    "s": "4.1",
+    "t": "Geografie",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#784212",
+    "q": "Wie viele Ausländerinnen und Ausländer leben in der Schweiz (Stand 2020)?",
+    "a": "3.5 Millionen",
+    "b": "2.1 Millionen",
+    "c2": "630'000",
+    "d": "1.1 Millionen",
+    "ans": "b",
+    "bp": [
+      46,
+      47,
+      48
+    ]
+  },
+  {
+    "id": 277,
+    "s": "4.1",
+    "t": "Geografie",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#784212",
+    "q": "Wie heisst dieser Berg?",
+    "a": "Finsteraarhorn",
+    "b": "Eiger",
+    "c2": "Matterhorn",
+    "d": "Mont Blanc",
+    "ans": "c",
+    "bp": [
+      46,
+      47,
+      48
+    ]
+  },
+  {
+    "id": 278,
+    "s": "4.1",
+    "t": "Geografie",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#784212",
+    "q": "Welcher Kanton hat die grösste Fläche?",
+    "a": "Basel",
+    "b": "Graubünden",
+    "c2": "Zürich",
+    "d": "Glarus",
+    "ans": "b",
+    "bp": [
+      46,
+      47,
+      48
+    ]
+  },
+  {
+    "id": 279,
+    "s": "4.1",
+    "t": "Geografie",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#784212",
+    "q": "Wie viele Menschen leben in der Schweiz (Stand 2020)?",
+    "a": "600’000",
+    "b": "12 Millionen",
+    "c2": "5 Millionen",
+    "d": "8.6 Millionen",
+    "ans": "d",
+    "bp": [
+      46,
+      47,
+      48
+    ]
+  },
+  {
+    "id": 280,
+    "s": "4.1",
+    "t": "Geografie",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#784212",
+    "q": "Wie gross ist der Anteil der ausländischen Wohnbevölkerung in der Schweiz (Stand 2020)?",
+    "a": "10%",
+    "b": "60%",
+    "c2": "25%",
+    "d": "40%",
+    "ans": "c",
+    "bp": [
+      46,
+      47,
+      48
+    ]
+  },
+  {
+    "id": 281,
+    "s": "4.1",
+    "t": "Geografie",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#784212",
+    "q": "Was ist eine wichtige natürliche Ressource der Schweiz?",
+    "a": "grosse Goldvorkommen in der Zentralschweiz",
+    "b": "grosse Wasservorräte zum Betrieb von Wasserkraftwerken",
+    "c2": "wertvolle Bodenschätze (Erdöl, Kohle)",
+    "d": "grosser Bestand an Fischen",
+    "ans": "b",
+    "bp": [
+      46,
+      47,
+      48
+    ]
+  },
+  {
+    "id": 282,
+    "s": "4.1",
+    "t": "Geografie",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#784212",
+    "q": "In welchem Kanton spricht man Französisch und Deutsch?",
+    "a": "St. Gallen",
+    "b": "Tessin",
+    "c2": "Graubünden",
+    "d": "Freiburg",
+    "ans": "d",
+    "bp": [
+      46,
+      47,
+      48
+    ]
+  },
+  {
+    "id": 283,
+    "s": "4.1",
+    "t": "Geografie",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#784212",
+    "q": "Welche Region in der Schweiz nennt man Welschland oder Romandie?",
+    "a": "die Ostschweiz",
+    "b": "die französischsprachige Schweiz",
+    "c2": "die deutschsprachige Schweiz",
+    "d": "das Tessin",
+    "ans": "b",
+    "bp": [
+      46,
+      47,
+      48
+    ]
+  },
+  {
+    "id": 284,
+    "s": "4.1",
+    "t": "Geografie",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#784212",
+    "q": "Welche Sprache spricht man im Kanton Tessin?",
+    "a": "Rätoromanisch",
+    "b": "Französisch",
+    "c2": "Italienisch",
+    "d": "Deutsch",
+    "ans": "c",
+    "bp": [
+      46,
+      47,
+      48
+    ]
+  },
+  {
+    "id": 285,
+    "s": "4.1",
+    "t": "Geografie",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#784212",
+    "q": "In welchem Kanton spricht man Rätoromanisch?",
+    "a": "Freiburg",
+    "b": "Appenzell",
+    "c2": "Glarus",
+    "d": "Graubünden",
+    "ans": "d",
+    "bp": [
+      46,
+      47,
+      48
+    ]
+  },
+  {
+    "id": 286,
+    "s": "4.1",
+    "t": "Geografie",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#784212",
+    "q": "Was bedeutet das Wort Röstigraben?",
+    "a": "die kulturelle Grenze zwischen der deutschsprachigen und der französischsprachigen Schweiz",
+    "b": "das Rhonetal",
+    "c2": "die Aareschlucht",
+    "d": "die Grenze zwischen der Schweiz und Deutschland",
+    "ans": "a",
+    "bp": [
+      46,
+      47,
+      48
+    ]
+  },
+  {
+    "id": 287,
+    "s": "4.2",
+    "t": "Geografie",
+    "st": "Kanton Zürich",
+    "lv": "cantonal",
+    "c": "#784212",
+    "q": "4.2 Kanton Wo liegt der Kanton Zürich? a) b) c) d) Richtige Antwort: b Karten: © BFS, Webseite Statistik Schweiz Geografisch gehört der Kanton Zürich ...",
+    "a": "zum Jura.",
+    "b": "zur Seenplatte.",
+    "c2": "zum Mittelland.",
+    "d": "zur Tössebene.",
+    "ans": "c",
+    "bp": [
+      54,
+      55,
+      56
+    ]
+  },
+  {
+    "id": 288,
+    "s": "4.2",
+    "t": "Geografie",
+    "st": "Kanton Zürich",
+    "lv": "cantonal",
+    "c": "#784212",
+    "q": "An wie viele Kantone grenzt der Kanton Zürich?",
+    "a": "10",
+    "b": "2",
+    "c2": "6",
+    "d": "8",
+    "ans": "c",
+    "bp": [
+      54,
+      55,
+      56
+    ]
+  },
+  {
+    "id": 289,
+    "s": "4.2",
+    "t": "Geografie",
+    "st": "Kanton Zürich",
+    "lv": "cantonal",
+    "c": "#784212",
+    "q": "Wie heissen die drei grössten Städte des Kantons Zürich?",
+    "a": "Zürich, Winterthur, Uster",
+    "b": "Zürich, Zug, Cham",
+    "c2": "Zürich, Winterthur, Bülach",
+    "d": "Zürich, Baden, Wettingen",
+    "ans": "a",
+    "bp": [
+      54,
+      55,
+      56
+    ]
+  },
+  {
+    "id": 290,
+    "s": "4.2",
+    "t": "Geografie",
+    "st": "Kanton Zürich",
+    "lv": "cantonal",
+    "c": "#784212",
+    "q": "Welche Hügel umrahmen den Zürichsee?",
+    "a": "Chli Aubrig, Hörnli, Randen",
+    "b": "Randen, Hörnli, Albis",
+    "c2": "Lägeren, Stierenberg, Pfannenstiel",
+    "d": "Uetliberg, Albis, Pfannenstiel",
+    "ans": "d",
+    "bp": [
+      54,
+      55,
+      56
+    ]
+  },
+  {
+    "id": 291,
+    "s": "4.2",
+    "t": "Geografie",
+    "st": "Kanton Zürich",
+    "lv": "cantonal",
+    "c": "#784212",
+    "q": "In welcher Gemeinde liegt der Flughafen Zürich?",
+    "a": "Zürich",
+    "b": "Winterthur",
+    "c2": "Kloten",
+    "d": "Bülach",
+    "ans": "c",
+    "bp": [
+      54,
+      55,
+      56
+    ]
+  },
+  {
+    "id": 292,
+    "s": "4.2",
+    "t": "Geografie",
+    "st": "Kanton Zürich",
+    "lv": "cantonal",
+    "c": "#784212",
+    "q": "Welcher See liegt im Kanton Zürich?",
+    "a": "Hallwilersee",
+    "b": "Pfäffikersee",
+    "c2": "Zugersee",
+    "d": "Sempachersee",
+    "ans": "b",
+    "bp": [
+      54,
+      55,
+      56
+    ]
+  },
+  {
+    "id": 293,
+    "s": "4.2",
+    "t": "Geografie",
+    "st": "Kanton Zürich",
+    "lv": "cantonal",
+    "c": "#784212",
+    "q": "Wie heisst der zweitgrösste See des Kantons Zürich?",
+    "a": "Walensee",
+    "b": "Zugersee",
+    "c2": "Sihlsee",
+    "d": "Greifensee",
+    "ans": "d",
+    "bp": [
+      54,
+      55,
+      56
+    ]
+  },
+  {
+    "id": 294,
+    "s": "4.2",
+    "t": "Geografie",
+    "st": "Kanton Zürich",
+    "lv": "cantonal",
+    "c": "#784212",
+    "q": "Welcher Fluss fliesst in der Stadt Zürich in die Limmat?",
+    "a": "Sihl",
+    "b": "Aare",
+    "c2": "Rhone",
+    "d": "Tessin",
+    "ans": "a",
+    "bp": [
+      54,
+      55,
+      56
+    ]
+  },
+  {
+    "id": 295,
+    "s": "4.2",
+    "t": "Geografie",
+    "st": "Kanton Zürich",
+    "lv": "cantonal",
+    "c": "#784212",
+    "q": "Welcher Fluss fliesst durch den Kanton Zürich?",
+    "a": "Rhone",
+    "b": "Inn",
+    "c2": "Aare",
+    "d": "Limmat",
+    "ans": "d",
+    "bp": [
+      54,
+      55,
+      56
+    ]
+  },
+  {
+    "id": 296,
+    "s": "4.2",
+    "t": "Geografie",
+    "st": "Kanton Zürich",
+    "lv": "cantonal",
+    "c": "#784212",
+    "q": "Welcher Fluss fliesst durch Winterthur?",
+    "a": "Töss",
+    "b": "Rhein",
+    "c2": "Limmat",
+    "d": "Sihl",
+    "ans": "a",
+    "bp": [
+      54,
+      55,
+      56
+    ]
+  },
+  {
+    "id": 297,
+    "s": "4.2",
+    "t": "Geografie",
+    "st": "Kanton Zürich",
+    "lv": "cantonal",
+    "c": "#784212",
+    "q": "Welches Schloss liegt im Kanton Zürich?",
+    "a": "Schloss Kyburg",
+    "b": "Château de Chillon",
+    "c2": "Schloss Hallwyl",
+    "d": "Schloss Greyerz",
+    "ans": "a",
+    "bp": [
+      54,
+      55,
+      56
+    ]
+  },
+  {
+    "id": 298,
+    "s": "4.2",
+    "t": "Geografie",
+    "st": "Kanton Zürich",
+    "lv": "cantonal",
+    "c": "#784212",
+    "q": "Wie gross ist die Landwirtschaftsfläche im Kanton Zürich?",
+    "a": "5%",
+    "b": "60%",
+    "c2": "80%",
+    "d": "41%",
+    "ans": "d",
+    "bp": [
+      54,
+      55,
+      56
+    ]
+  },
+  {
+    "id": 299,
+    "s": "4.2",
+    "t": "Geografie",
+    "st": "Kanton Zürich",
+    "lv": "cantonal",
+    "c": "#784212",
+    "q": "Wie viele Personen leben im Kanton Zürich (Stand 2020)?",
+    "a": "1.5 Millionen",
+    "b": "360'000",
+    "c2": "600'000",
+    "d": "3.1 Millionen",
+    "ans": "a",
+    "bp": [
+      54,
+      55,
+      56
+    ]
+  },
+  {
+    "id": 300,
+    "s": "4.2",
+    "t": "Geografie",
+    "st": "Kanton Zürich",
+    "lv": "cantonal",
+    "c": "#784212",
+    "q": "Wie heisst die Hauptstadt des Kantons Zürich?",
+    "a": "Uster",
+    "b": "Winterthur",
+    "c2": "Wädenswil",
+    "d": "Zürich",
+    "ans": "d",
+    "bp": [
+      54,
+      55,
+      56
+    ]
+  },
+  {
+    "id": 301,
+    "s": "4.2",
+    "t": "Geografie",
+    "st": "Kanton Zürich",
+    "lv": "cantonal",
+    "c": "#784212",
+    "q": "Welcher Kanton grenzt an den Kanton Zürich?",
+    "a": "Freiburg",
+    "b": "Thurgau",
+    "c2": "Luzern",
+    "d": "Glarus",
+    "ans": "b",
+    "bp": [
+      54,
+      55,
+      56
+    ]
+  },
+  {
+    "id": 302,
+    "s": "5.1",
+    "t": "Kultur & Alltagskultur",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#6C3483",
+    "q": "Wie heisst das traditionelle Kartenspiel der Schweiz?",
+    "a": "Uno",
+    "b": "Jass",
+    "c2": "Poker",
+    "d": "Bridge",
+    "ans": "b",
+    "bp": [
+      40,
+      41,
+      42
+    ]
+  },
+  {
+    "id": 303,
+    "s": "5.1",
+    "t": "Kultur & Alltagskultur",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#6C3483",
+    "q": "Wie heisst der grösste Schweizer Zirkus?",
+    "a": "Zirkus Knie",
+    "b": "Zirkus Busch",
+    "c2": "Zirkus Krone",
+    "d": "Zirkus Roncalli",
+    "ans": "a",
+    "bp": [
+      40,
+      41,
+      42
+    ]
+  },
+  {
+    "id": 304,
+    "s": "5.1",
+    "t": "Kultur & Alltagskultur",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#6C3483",
+    "q": "Die Basler Fasnacht wird mit dem «Morgestraich» an einem Montag um 4 Uhr morgens angepfiffen. Was passiert dann?",
+    "a": "Alle Baslerinnen und Basler beginnen zu singen.",
+    "b": "Die Vorsitzenden der Fasnachtsgruppen halten Reden.",
+    "c2": "Die Strassenlichter werden gelöscht und die Pfeifer und Trommler beginnen zu spielen.",
+    "d": "Brennende Besen werden durch die Stadt getragen.",
+    "ans": "c",
+    "bp": [
+      40,
+      41,
+      42
+    ]
+  },
+  {
+    "id": 305,
+    "s": "5.1",
+    "t": "Kultur & Alltagskultur",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#6C3483",
+    "q": "Wie heisst eine traditionelle Schweizer Sportart?",
+    "a": "Basketball",
+    "b": "Eishockey",
+    "c2": "Schwingen",
+    "d": "Volleyball",
+    "ans": "c",
+    "bp": [
+      40,
+      41,
+      42
+    ]
+  },
+  {
+    "id": 306,
+    "s": "5.1",
+    "t": "Kultur & Alltagskultur",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#6C3483",
+    "q": "Wann ist der Schweizer Nationalfeiertag?",
+    "a": "14. Juli",
+    "b": "1. August",
+    "c2": "4. Juli",
+    "d": "3. Oktober",
+    "ans": "b",
+    "bp": [
+      40,
+      41,
+      42
+    ]
+  },
+  {
+    "id": 307,
+    "s": "5.1",
+    "t": "Kultur & Alltagskultur",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#6C3483",
+    "q": "Was bedeutet die Abkürzung SBB?",
+    "a": "Schweizerische Bundesbahnen",
+    "b": "Gesellschaft der schweizerischen Börse",
+    "c2": "Zusammenschluss des Bühnenpersonals in der Schweiz",
+    "d": "Schweizerische Gesellschaft für Bildungsforschung",
+    "ans": "a",
+    "bp": [
+      40,
+      41,
+      42
+    ]
+  },
+  {
+    "id": 308,
+    "s": "5.1",
+    "t": "Kultur & Alltagskultur",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#6C3483",
+    "q": "SBB, BLS, SOB, SZU sind Abkürzungen für Schweizer ...",
+    "a": "Gewerkschaften.",
+    "b": "Kulturvereine.",
+    "c2": "Eisenbahngesellschaften.",
+    "d": "Seilbahngesellschaften.",
+    "ans": "c",
+    "bp": [
+      40,
+      41,
+      42
+    ]
+  },
+  {
+    "id": 309,
+    "s": "5.1",
+    "t": "Kultur & Alltagskultur",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#6C3483",
+    "q": "Was soll man tun, wenn die Alarm-Sirenen im Ernstfall heulen?",
+    "a": "nach Hause gehen",
+    "b": "Radio hören",
+    "c2": "den Fernseher abstellen",
+    "d": "zum zentralen Platz der Gemeinde gehen",
+    "ans": "b",
+    "bp": [
+      40,
+      41,
+      42
+    ]
+  },
+  {
+    "id": 310,
+    "s": "5.1",
+    "t": "Kultur & Alltagskultur",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#6C3483",
+    "q": "Was wird im Landesmuseum Zürich gezeigt?",
+    "a": "Werke des europäischen Impressionismus",
+    "b": "die Geschichte der Schweiz",
+    "c2": "eine Insektensammlung",
+    "d": "eine Sammlung von historischen Autos",
+    "ans": "b",
+    "bp": [
+      40,
+      41,
+      42
+    ]
+  },
+  {
+    "id": 311,
+    "s": "5.1",
+    "t": "Kultur & Alltagskultur",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#6C3483",
+    "q": "Für welche Industrie ist die Juraregion bekannt?",
+    "a": "Uhrenindustrie",
+    "b": "Wurstproduktion",
+    "c2": "Schuhherstellung",
+    "d": "Seidenmalerei",
+    "ans": "a",
+    "bp": [
+      40,
+      41,
+      42
+    ]
+  },
+  {
+    "id": 312,
+    "s": "5.1",
+    "t": "Kultur & Alltagskultur",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#6C3483",
+    "q": "Was ist eine bäuerliche kulturelle Tradition der Schweiz?",
+    "a": "Didgeridoo spielen.",
+    "b": "Kastagnetten schlagen.",
+    "c2": "Jodeln.",
+    "d": "Bembé Trommel spielen.",
+    "ans": "c",
+    "bp": [
+      40,
+      41,
+      42
+    ]
+  },
+  {
+    "id": 313,
+    "s": "5.1",
+    "t": "Kultur & Alltagskultur",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#6C3483",
+    "q": "Was braucht man zum Jodeln?",
+    "a": "Holzschuhe.",
+    "b": "eine kleine Pfeife.",
+    "c2": "die Hände.",
+    "d": "die Stimme.",
+    "ans": "d",
+    "bp": [
+      40,
+      41,
+      42
+    ]
+  },
+  {
+    "id": 314,
+    "s": "5.1",
+    "t": "Kultur & Alltagskultur",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#6C3483",
+    "q": "Wer entscheidet, welche Artikel in der Zeitung veröffentlicht werden?",
+    "a": "die Zeitungsredaktion",
+    "b": "der kantonale Verband der Journalistinnen und Journalisten",
+    "c2": "die zentrale Medienstelle des Kantons",
+    "d": "die Medienpolizei",
+    "ans": "a",
+    "bp": [
+      40,
+      41,
+      42
+    ]
+  },
+  {
+    "id": 315,
+    "s": "5.1",
+    "t": "Kultur & Alltagskultur",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#6C3483",
+    "q": "Was ist eine Schweizer Wochenzeitung (erscheint 1x pro Woche)?",
+    "a": "Tages-Anzeiger",
+    "b": "Blick",
+    "c2": "Neue Zürcher Zeitung",
+    "d": "Sonntagszeitung",
+    "ans": "d",
+    "bp": [
+      40,
+      41,
+      42
+    ]
+  },
+  {
+    "id": 316,
+    "s": "5.1",
+    "t": "Kultur & Alltagskultur",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#6C3483",
+    "q": "Wie wird die Schweiz auch bezeichnet?",
+    "a": "Freistaat Schweiz",
+    "b": "Eidgenossenschaft",
+    "c2": "Bündnis Schweiz",
+    "d": "Freie Alpenrepublik",
+    "ans": "b",
+    "bp": [
+      40,
+      41,
+      42
+    ]
+  },
+  {
+    "id": 317,
+    "s": "5.1",
+    "t": "Kultur & Alltagskultur",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#6C3483",
+    "q": "Roger Federer ist ein bekannter Schweizer …",
+    "a": "Tennisspieler.",
+    "b": "Fussballspieler.",
+    "c2": "Skirennfahrer.",
+    "d": "Filmschauspieler.",
+    "ans": "a",
+    "bp": [
+      40,
+      41,
+      42
+    ]
+  },
+  {
+    "id": 318,
+    "s": "5.1",
+    "t": "Kultur & Alltagskultur",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#6C3483",
+    "q": "An was erinnert das Rütli?",
+    "a": "an eine prähistorische Kultstätte",
+    "b": "an das Bündnis der Urkantone",
+    "c2": "an ein Schlachtfeld",
+    "d": "an einen Friedensvertrag",
+    "ans": "b",
+    "bp": [
+      40,
+      41,
+      42
+    ]
+  },
+  {
+    "id": 319,
+    "s": "5.1",
+    "t": "Kultur & Alltagskultur",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#6C3483",
+    "q": "Wer ist auf der 2-Franken-Münze zu sehen?",
+    "a": "die lächelnde Mona Lisa",
+    "b": "die allegorische Frauenfigur Helvetia",
+    "c2": "eine römische Siegerin",
+    "d": "eine antike Priesterin",
+    "ans": "b",
+    "bp": [
+      40,
+      41,
+      42
+    ]
+  },
+  {
+    "id": 320,
+    "s": "5.1",
+    "t": "Kultur & Alltagskultur",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#6C3483",
+    "q": "Die Stadt Bern ist politisch wichtig. Warum?",
+    "a": "Sie ist Sitz der FIFA.",
+    "b": "Sie ist die Hauptstadt der Schweiz.",
+    "c2": "Sie ist der Sitz der UNO (Vereinte Nationen).",
+    "d": "Sie ist der Sitz des Europarats.",
+    "ans": "b",
+    "bp": [
+      40,
+      41,
+      42
+    ]
+  },
+  {
+    "id": 321,
+    "s": "5.1",
+    "t": "Kultur & Alltagskultur",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#6C3483",
+    "q": "Als was ist die Region Basel besonders bekannt?",
+    "a": "als Weinland",
+    "b": "als Standort grosser Pharmafirmen",
+    "c2": "als Land der Burgen und Klöster",
+    "d": "als Standort verschiedener internationaler Organisationen (z.B. UNO)",
+    "ans": "b",
+    "bp": [
+      40,
+      41,
+      42
+    ]
+  },
+  {
+    "id": 322,
+    "s": "5.1",
+    "t": "Kultur & Alltagskultur",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#6C3483",
+    "q": "Welcher Kanton hat am meisten Einwohnerinnen und Einwohner?",
+    "a": "Waadt",
+    "b": "Bern",
+    "c2": "Zürich",
+    "d": "St. Gallen",
+    "ans": "c",
+    "bp": [
+      40,
+      41,
+      42
+    ]
+  },
+  {
+    "id": 323,
+    "s": "5.1",
+    "t": "Kultur & Alltagskultur",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#6C3483",
+    "q": "Wann feiert die Schweiz ihren Nationalfeiertag?",
+    "a": "am 4. Juli",
+    "b": "am 8. November",
+    "c2": "am 1. August",
+    "d": "am 1. Mai",
+    "ans": "c",
+    "bp": [
+      40,
+      41,
+      42
+    ]
+  },
+  {
+    "id": 324,
+    "s": "5.1",
+    "t": "Kultur & Alltagskultur",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#6C3483",
+    "q": "Was bedeutet die Abkürzung CH?",
+    "a": "Confoederatio Helvetica",
+    "b": "Schweizerisches Längenmass",
+    "c2": "Christlicher Verein",
+    "d": "Cultura Habsburgiensia",
+    "ans": "a",
+    "bp": [
+      40,
+      41,
+      42
+    ]
+  },
+  {
+    "id": 325,
+    "s": "5.1",
+    "t": "Kultur & Alltagskultur",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#6C3483",
+    "q": "Welchen Sport machen viele Menschen in der Schweiz im Winter?",
+    "a": "Skifahren",
+    "b": "Schwingen",
+    "c2": "Berg-Radfahren",
+    "d": "Bergsee-Segeln",
+    "ans": "a",
+    "bp": [
+      40,
+      41,
+      42
+    ]
+  },
+  {
+    "id": 326,
+    "s": "5.1",
+    "t": "Kultur & Alltagskultur",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#6C3483",
+    "q": "Welche Tradition ist in der Schweiz mit der Fasnacht verbunden?",
+    "a": "Fahnenschwingen",
+    "b": "Maskenumzüge",
+    "c2": "Jodeln",
+    "d": "Bergfeuer",
+    "ans": "b",
+    "bp": [
+      40,
+      41,
+      42
+    ]
+  },
+  {
+    "id": 327,
+    "s": "5.1",
+    "t": "Kultur & Alltagskultur",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#6C3483",
+    "q": "Welche berühmte Figur hat die Schriftstellerin Johanna Spyri erfunden?",
+    "a": "Ueli der Knecht",
+    "b": "Schellenursli",
+    "c2": "Heidi",
+    "d": "Peter und der Wolf",
+    "ans": "c",
+    "bp": [
+      40,
+      41,
+      42
+    ]
+  },
+  {
+    "id": 328,
+    "s": "5.1",
+    "t": "Kultur & Alltagskultur",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#6C3483",
+    "q": "Max Frisch (1911-1991) und Friedrich Dürrenmatt (1921-1990) waren bekannte Schweizer ...",
+    "a": "Komponisten.",
+    "b": "Schriftsteller.",
+    "c2": "Unternehmer.",
+    "d": "Journalisten.",
+    "ans": "b",
+    "bp": [
+      40,
+      41,
+      42
+    ]
+  },
+  {
+    "id": 329,
+    "s": "5.1",
+    "t": "Kultur & Alltagskultur",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#6C3483",
+    "q": "Nicky Saint-Phalle, Sophie Täuber-Arp und Pipilotti Rist sind international berühmte Schweizer ...",
+    "a": "Politikerinnen.",
+    "b": "Sportlerinnen.",
+    "c2": "Ingenieurinnen.",
+    "d": "Künstlerinnen.",
+    "ans": "d",
+    "bp": [
+      40,
+      41,
+      42
+    ]
+  },
+  {
+    "id": 330,
+    "s": "5.1",
+    "t": "Kultur & Alltagskultur",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#6C3483",
+    "q": "Welche internationale Organisation hat ihren Hauptsitz in der Schweiz?",
+    "a": "der internationale Strafgerichtshof",
+    "b": "die Organisation für Sicherheit und Zusammenarbeit in Europa (OSZE)",
+    "c2": "der Europarat",
+    "d": "das Internationale Komitee vom Roten Kreuz (IKRK)",
+    "ans": "d",
+    "bp": [
+      40,
+      41,
+      42
+    ]
+  },
+  {
+    "id": 331,
+    "s": "5.1",
+    "t": "Kultur & Alltagskultur",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#6C3483",
+    "q": "Bei welcher internationalen Organisation ist die Schweiz seit 2002 Mitglied?",
+    "a": "der Europäischen Union (EU)",
+    "b": "dem Europäischen Wirtschaftsraum (EWR)",
+    "c2": "der Organisation der Vereinten Nationen (UNO)",
+    "d": "dem Weltwährungsfonds (IWF)",
+    "ans": "c",
+    "bp": [
+      40,
+      41,
+      42
+    ]
+  },
+  {
+    "id": 332,
+    "s": "5.1",
+    "t": "Kultur & Alltagskultur",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#6C3483",
+    "q": "Die Schweiz ist Mitglied der Organisation für Sicherheit und Zusammenarbeit in Europa (OSZE). Für was setzt sie sich dort besonders ein?",
+    "a": "für die Friedenssicherung in Osteuropa und Zentralasien",
+    "b": "für die wirtschaftliche Entwicklung Indiens",
+    "c2": "für die Förderung des Baus von Flusskraftwerken",
+    "d": "für die Förderung des Tourismus in Europa",
+    "ans": "a",
+    "bp": [
+      40,
+      41,
+      42
+    ]
+  },
+  {
+    "id": 333,
+    "s": "5.1",
+    "t": "Kultur & Alltagskultur",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#6C3483",
+    "q": "Wie ist das Verhältnis der Schweiz zur Europäischen Union (EU) geregelt?",
+    "a": "Sie ist Mitglied der EU.",
+    "b": "Sie hat mit der EU die Bilateralen Verträge abgeschlossen.",
+    "c2": "Sie hat mit allen EU-Mitgliedstaaten Einzelverträge abgeschlossen.",
+    "d": "Sie ist gegenüber der EU vollständig unabhängig.",
+    "ans": "b",
+    "bp": [
+      40,
+      41,
+      42
+    ]
+  },
+  {
+    "id": 334,
+    "s": "5.1",
+    "t": "Kultur & Alltagskultur",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#6C3483",
+    "q": "Welche wichtige internationale Veranstaltung findet regelmässig in der Schweiz statt?",
+    "a": "der jährliche Umweltgipfel der UNO",
+    "b": "die olympischen Winterspiele",
+    "c2": "das Skirennen der Mitglieder des EU-Parlaments",
+    "d": "das Weltwirtschaftsforum (WEF) in Davos",
+    "ans": "d",
+    "bp": [
+      40,
+      41,
+      42
+    ]
+  },
+  {
+    "id": 335,
+    "s": "5.1",
+    "t": "Kultur & Alltagskultur",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#6C3483",
+    "q": "In welcher Stadt hat die UNO-Menschenrechtskommission ihren Sitz?",
+    "a": "Neuenburg",
+    "b": "St. Gallen",
+    "c2": "Genf",
+    "d": "Bern",
+    "ans": "c",
+    "bp": [
+      40,
+      41,
+      42
+    ]
+  },
+  {
+    "id": 336,
+    "s": "5.1",
+    "t": "Kultur & Alltagskultur",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#6C3483",
+    "q": "Welcher internationale Sportverband hat seinen Sitz in Zürich?",
+    "a": "Internationaler Golfverband (IGF)",
+    "b": "Internationaler Skiverband (FIS)",
+    "c2": "Weltfussballverband (FIFA)",
+    "d": "Internationaler Schwimmverband (FINA)",
+    "ans": "c",
+    "bp": [
+      40,
+      41,
+      42
+    ]
+  },
+  {
+    "id": 337,
+    "s": "5.1",
+    "t": "Kultur & Alltagskultur",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#6C3483",
+    "q": "Was kann man auf einer «Chilbi» erleben?",
+    "a": "eine Fahrt mit der Achterbahn",
+    "b": "eine Opernaufführung",
+    "c2": "einen Fussballmatch",
+    "d": "einen Schwimmwettkampf",
+    "ans": "a",
+    "bp": [
+      40,
+      41,
+      42
+    ]
+  },
+  {
+    "id": 338,
+    "s": "5.1",
+    "t": "Kultur & Alltagskultur",
+    "st": "Bund",
+    "lv": "federal",
+    "c": "#6C3483",
+    "q": "Welchen Sport macht man in der Schweiz am häufigsten in einem Verein?",
+    "a": "Schwimmen",
+    "b": "Skifahren",
+    "c2": "Unihockey",
+    "d": "Fussball",
+    "ans": "d",
+    "bp": [
+      40,
+      41,
+      42
+    ]
+  },
+  {
+    "id": 339,
+    "s": "5.2",
+    "t": "Kultur & Alltagskultur",
+    "st": "Kanton Zürich",
+    "lv": "cantonal",
+    "c": "#6C3483",
+    "q": "5.2 Kanton Man sagt: Je schneller am Sechseläuten der «Böögg» (SchneemannPuppe) auf dem Scheiterhaufen den Kopf verliert, desto ...",
+    "a": "kälter wird der Zürichsee im Sommer.",
+    "b": "schöner wird der nächste Sommer.",
+    "c2": "mehr Kinder wird es im kommenden Jahr geben.",
+    "d": "besser wird die Wirtschaft im kommenden Jahr laufen.",
+    "ans": "b",
+    "bp": [
+      54,
+      62,
+      63
+    ]
+  },
+  {
+    "id": 340,
+    "s": "5.2",
+    "t": "Kultur & Alltagskultur",
+    "st": "Kanton Zürich",
+    "lv": "cantonal",
+    "c": "#6C3483",
+    "q": "Wofür steht die Street Parade in Zürich?",
+    "a": "für Liebe, Friede, Freiheit, Grosszügigkeit und Toleranz",
+    "b": "für Demokratie und Menschenrechte",
+    "c2": "für Theater und Kunst der jungen Generation",
+    "d": "für Volksmusik und Spektakel",
+    "ans": "a",
+    "bp": [
+      54,
+      62,
+      63
+    ]
+  },
+  {
+    "id": 341,
+    "s": "5.2",
+    "t": "Kultur & Alltagskultur",
+    "st": "Kanton Zürich",
+    "lv": "cantonal",
+    "c": "#6C3483",
+    "q": "Was bietet das Zürcher Theater Spektakel immer im August?",
+    "a": "Theater, Tanz und Musik aus der ganzen Welt",
+    "b": "Jassturniere für ältere Menschen",
+    "c2": "ein Weinfest",
+    "d": "die Vorführung neuer Schweizer Filme",
+    "ans": "a",
+    "bp": [
+      54,
+      62,
+      63
+    ]
+  },
+  {
+    "id": 342,
+    "s": "5.2",
+    "t": "Kultur & Alltagskultur",
+    "st": "Kanton Zürich",
+    "lv": "cantonal",
+    "c": "#6C3483",
+    "q": "Was ist ein Zürcher Sportevent?",
+    "a": "Weltklasse Zürich",
+    "b": "Engadiner Skimarathon",
+    "c2": "Swiss Indoors",
+    "d": "Schweizer Frauenlauf",
+    "ans": "a",
+    "bp": [
+      54,
+      62,
+      63
+    ]
+  },
+  {
+    "id": 343,
+    "s": "5.2",
+    "t": "Kultur & Alltagskultur",
+    "st": "Kanton Zürich",
+    "lv": "cantonal",
+    "c": "#6C3483",
+    "q": "In diesem Museum kann man experimentieren. In welcher Stadt ist das Technorama?",
+    "a": "Zürich",
+    "b": "Winterthur",
+    "c2": "Aarau",
+    "d": "Zug",
+    "ans": "b",
+    "bp": [
+      54,
+      62,
+      63
+    ]
+  },
+  {
+    "id": 344,
+    "s": "5.2",
+    "t": "Kultur & Alltagskultur",
+    "st": "Kanton Zürich",
+    "lv": "cantonal",
+    "c": "#6C3483",
+    "q": "In welchem Museum kann man alles berühren und experimentieren?",
+    "a": "Sammlung Reinhart «Am Römerholz»",
+    "b": "Fotomuseum Winterthur",
+    "c2": "Technorama",
+    "d": "Villa Lindengut",
+    "ans": "c",
+    "bp": [
+      54,
+      62,
+      63
+    ]
+  },
+  {
+    "id": 345,
+    "s": "5.2",
+    "t": "Kultur & Alltagskultur",
+    "st": "Kanton Zürich",
+    "lv": "cantonal",
+    "c": "#6C3483",
+    "q": "Wo ist die Masoala-Halle mit einem Urwald aus Madagaskar?",
+    "a": "im Zoo Zürich",
+    "b": "im China Garten von Zürich",
+    "c2": "im alten botanischen Garten Zürich",
+    "d": "im Rieterpark in Zürich",
+    "ans": "a",
+    "bp": [
+      54,
+      62,
+      63
+    ]
+  },
+  {
+    "id": 346,
+    "s": "5.2",
+    "t": "Kultur & Alltagskultur",
+    "st": "Kanton Zürich",
+    "lv": "cantonal",
+    "c": "#6C3483",
+    "q": "Wer spielt eine wichtige Rolle am Zürcher Sechseläuten?",
+    "a": "die Frauen",
+    "b": "die Kirchen",
+    "c2": "die Gewerkschaften",
+    "d": "die Zünfte",
+    "ans": "d",
+    "bp": [
+      54,
+      62,
+      63
+    ]
+  },
+  {
+    "id": 347,
+    "s": "5.2",
+    "t": "Kultur & Alltagskultur",
+    "st": "Kanton Zürich",
+    "lv": "cantonal",
+    "c": "#6C3483",
+    "q": "Gottfried Keller (1819-1890) war ein bekannter Zürcher ...",
+    "a": "Erfinder.",
+    "b": "Schriftsteller.",
+    "c2": "reformierter Pfarrer.",
+    "d": "Fabrikant.",
+    "ans": "b",
+    "bp": [
+      54,
+      62,
+      63
+    ]
+  }
+]
